@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Route de Pont-de-l'Arche",
+	"status": "postponed",
+	"type": "inconnu",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0442243453607034,
+            49.2907976265964
+          ],
+          [
+            1.0365736862671326,
+            49.28939731900999
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue Félix Faure",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.036522568277718,
+            49.28936397786782
+          ],
+          [
+            1.0275939594465626,
+            49.287808032848034
+          ],
+          [
+            1.0239816434164482,
+            49.287196760186646
+          ],
+          [
+            1.020000594709927,
+            49.28712246803127
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Cours Carnot",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0199846840669977,
+            49.28714385766307
+          ],
+          [
+            1.0091408339749819,
+            49.28700446638254
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue Jean Jaurès",
+	"status": "postponed",
+	"type": "bilaterale",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0090103650422009,
+            49.28714796449876
+          ],
+          [
+            1.0099509586773365,
+            49.29137769557482
+          ],
+          [
+            1.0102106812730938,
+            49.292644776214104
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Pont Jean Jaurès",
+	"status": "done",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0102106812730938,
+            49.292672651312216
+          ],
+          [
+            1.0105587102446236,
+            49.29437698451733
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Avenue Winston Churchill",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0105694594622037,
+            49.29437920960524
+          ],
+          [
+            1.011210386130955,
+            49.29734177945204
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue du Maréchal Leclerc Sud",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.011222248012075,
+            49.29734356518384
+          ],
+          [
+            1.0118045530759616,
+            49.30015527537884
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue du Maréchal Leclerd Centre",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.011809028268516,
+            49.30015556317488
+          ],
+          [
+            1.0120629950759508,
+            49.30132702794393
+          ],
+          [
+            1.012180621807829,
+            49.301494377780585
+          ],
+          [
+            1.0126598698615794,
+            49.30204965756835
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue du Maréchal Leclerc Nord",
+	"status": "postponed",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0127651712770103,
+            49.302153424132456
+          ],
+          [
+            1.015537159222589,
+            49.3031828305281
+          ],
+          [
+            1.0164268719807126,
+            49.30352542819574
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue du Maréchal Leclerc Est",
+	"status": "postponed",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0164506610027786,
+            49.30353857972523
+          ],
+          [
+            1.0173310374163975,
+            49.303811545997405
+          ],
+          [
+            1.0195553348640942,
+            49.304437136698596
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue de Tourville Ouest",
+	"status": "planned",
+	"type": "unknown",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0195696677750732,
+            49.3044463500228
+          ],
+          [
+            1.025718179623567,
+            49.306102503293715
+          ],
+          [
+            1.0300716038485973,
+            49.30729681458405
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Rue de Tourville Est",
+	"status": "planned",
+	"type": "bilaterale",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0301082390237468,
+            49.30729681561368
+          ],
+          [
+            1.0326787688032084,
+            49.30789395813446
+          ],
+          [
+            1.0358293468713953,
+            49.30834380072065
+          ],
+          [
+            1.0401866770500874,
+            49.30900295686402
+          ],
+          [
+            1.0441126880905927,
+            49.30992650225363
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "RD7 Sud",
+	"status": "planned",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0441219724220048,
+            49.30991714292611
+          ],
+          [
+            1.0462253609376546,
+            49.310325686350865
+          ],
+          [
+            1.050514762423262,
+            49.31125514617253
+          ],
+          [
+            1.0533674830973894,
+            49.311863658127066
+          ],
+          [
+            1.0546642121812795,
+            49.31231037483977
+          ],
+          [
+            1.0558079296862388,
+            49.313135988925524
+          ],
+          [
+            1.0569691764607967,
+            49.31431010978426
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Boulevard Gabriel Péri Ouest",
+	"status": "planned",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.056986226342076,
+            49.314353638932374
+          ],
+          [
+            1.0582116625768947,
+            49.31542030339102
+          ],
+          [
+            1.0597504205751136,
+            49.316037596525604
+          ],
+          [
+            1.06255639104333,
+            49.316427939662134
+          ],
+          [
+            1.068610549246813,
+            49.31718247694192
+          ],
+          [
+            1.0697454703046958,
+            49.317482035917465
+          ],
+          [
+            1.0711380114802296,
+            49.318099303212875
+          ],
+          [
+            1.0741992027463425,
+            49.319332793380795
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "Boulevard Gabriel Péri Est",
+	"status": "planned",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0742246062304446,
+            49.319359255668104
+          ],
+          [
+            1.0767248725900913,
+            49.31999385584663
+          ],
+          [
+            1.079435338334605,
+            49.320253462653454
+          ],
+          [
+            1.081592647804996,
+            49.32028951904624
+          ],
+          [
+            1.0859183298710207,
+            49.321039486029775
+          ],
+          [
+            1.0898236131684484,
+            49.32203461689508
+          ],
+          [
+            1.0935408477814406,
+            49.32328932103306
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "RD7 Tourville Sud",
+	"status": "planned",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0935606649223075,
+            49.32330944540519
+          ],
+          [
+            1.0958396687717311,
+            49.32391515170937
+          ],
+          [
+            1.0975544532230117,
+            49.32462179964733
+          ],
+          [
+            1.0987824601517104,
+            49.325465437476055
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 2,
+        "name": "RD7 Tourville Nord",
+	"status": "planned",
+	"type": "bidirectionnelle",
+	"link": "/revmrn-2",
+	"quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.098837756677824,
+            49.325479854256116
+          ],
+          [
+            1.1007295511369932,
+            49.326907515696206
+          ],
+          [
+            1.1015703486741018,
+            49.327938578769164
+          ],
+          [
+            1.1018690530623587,
+            49.32878215976831
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
