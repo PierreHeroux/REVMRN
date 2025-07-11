@@ -31,7 +31,7 @@
         "line": 2,
         "name": "Rue Félix Faure",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -63,7 +63,7 @@
         "line": 2,
         "name": "Cours Carnot",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -87,7 +87,7 @@
         "line": 2,
         "name": "Rue Jean Jaurès",
 	"status": "postponed",
-	"type": "bilaterale",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -115,7 +115,7 @@
         "line": 2,
         "name": "Pont Jean Jaurès",
 	"status": "done",
-	"type": "unknown",
+	"type": "bilaterale",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -139,7 +139,7 @@
         "line": 2,
         "name": "Avenue Winston Churchill",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -163,7 +163,7 @@
         "line": 2,
         "name": "Rue du Maréchal Leclerc Sud",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -187,7 +187,7 @@
         "line": 2,
         "name": "Rue du Maréchal Leclerd Centre",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -247,7 +247,7 @@
         "line": 2,
         "name": "Rue du Maréchal Leclerc Est",
 	"status": "postponed",
-	"type": "unknown",
+	"type": "inconnu",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -275,7 +275,7 @@
         "line": 2,
         "name": "Rue de Tourville Ouest",
 	"status": "planned",
-	"type": "unknown",
+	"type": "bidirectionnelle",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
@@ -303,7 +303,7 @@
         "line": 2,
         "name": "Rue de Tourville Est",
 	"status": "planned",
-	"type": "bilaterale",
+	"type": "bidirectionnelle",
 	"link": "/revmrn-2",
 	"quality": "unsatisfactory"
       },
