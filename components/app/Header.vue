@@ -7,7 +7,7 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://sabinerouenvelo.org/wp-content/uploads/2022/04/logo-blanc-notext-150-e1649445549930.png"
+              src="https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png"
               :alt="`logo ${getAssoName()}`"
             >
             <!--
