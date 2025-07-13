@@ -7,14 +7,16 @@
             <span class="sr-only">Cyclopolis</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="https://sabinerouenvelo.org/wp-content/uploads/2022/04/logo-blanc-notext-150-e1649445549930.png"
               :alt="`logo ${getAssoName()}`"
             >
+            <!--
             <img
               class="h-8 w-auto sm:h-10"
               src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
               alt="logo cyclopolis"
             >
+            -->
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
@@ -49,6 +51,7 @@
                     >
                       Carte interactive
                     </NuxtLink>
+                    <!--
                     <NuxtLink
                       to="/evolution"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -56,6 +59,7 @@
                     >
                       Évolution du réseau
                     </NuxtLink>
+                    -->
                     <NuxtLink
                       to="/plan-officiel"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -64,12 +68,12 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739"
+                      to="https://barometre.parlons-velo.fr/2021/carte/#10.39/49.3796/1.0393"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Métropoole Rouen Normandie</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
