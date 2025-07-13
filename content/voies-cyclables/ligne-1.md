@@ -3,7 +3,7 @@ name: Itinéraire 1
 line: 1
 from: Rouen
 to: Rouen
-description: La ligne 1 du Réseau Express Vélo de la Métropole Rouen Normandie suite les boulevards qui entourent le centre de la ville. 
+description: L'itinéraire 1 du Réseau Express Vélo de la Métropole Rouen Normandie suit les boulevards qui entourent le centre de la ville. Il est connecté aux itinéraires 3, 5, 6, 7, 9.
 trafic: 
 cover: 
 ---

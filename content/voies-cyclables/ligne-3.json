@@ -1,0 +1,1039 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue Jean Jaurès",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0071018512784065,
+            49.35614222609013
+          ],
+          [
+            1.0052952367349235,
+            49.35516866557663
+          ],
+          [
+            1.0036125926088175,
+            49.35425771550578
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            1.003589324521073,
+            49.354280828180634
+          ],
+          [
+            1.003202338761156,
+            49.35500553770294
+          ],
+          [
+            1.0029024247973268,
+            49.35516938359345
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Pont jeanne d'Arc",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0887609150551327,
+            49.439056214150526
+          ],
+          [
+            1.087439551568508,
+            49.436975779874444
+          ],
+          [
+            1.0872656669660614,
+            49.437004040726606
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue Jacques Cartier",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0873070299874144,
+            49.43699078709696
+          ],
+          [
+            1.0871840849685839,
+            49.43678824879524
+          ],
+          [
+            1.0872004776381914,
+            49.436624796222134
+          ],
+          [
+            1.0864846643831925,
+            49.43542731187253
+          ],
+          [
+            1.0863535230300556,
+            49.43545396243627
+          ],
+          [
+            1.0861294898858205,
+            49.43518923285956
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue de Bretagne Nord",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0861222950683214,
+            49.43518506319887
+          ],
+          [
+            1.0860731170613178,
+            49.43510333430953
+          ],
+          [
+            1.0861059023996233,
+            49.43500916824556
+          ],
+          [
+            1.0858354233589296,
+            49.434678697233466
+          ],
+          [
+            1.0856223186596026,
+            49.434323349574356
+          ],
+          [
+            1.0848730729652232,
+            49.43312316276814
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue de Bretagne Centre",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0848756192679332,
+            49.43312111004326
+          ],
+          [
+            1.0847275323237682,
+            49.432903860800565
+          ],
+          [
+            1.0842798276068777,
+            49.43249847562015
+          ],
+          [
+            1.0835703878251195,
+            49.43209308708947
+          ],
+          [
+            1.0827920703942766,
+            49.43180864120325
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue de Bretagne Sud",
+        "status": "done",
+        "type": "voie-verte",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0827896476718593,
+            49.4318104660471
+          ],
+          [
+            1.082021661889172,
+            49.4315976904947
+          ],
+          [
+            1.0813156659897913,
+            49.43141627061078
+          ],
+          [
+            1.0811262524553342,
+            49.43134683813199
+          ],
+          [
+            1.0813413819882385,
+            49.43098566270106
+          ],
+          [
+            1.080507962438844,
+            49.43081319968752
+          ],
+          [
+            1.0794506905303365,
+            49.43053546576829
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point des Harkis",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0794117016636449,
+            49.43052938917924
+          ],
+          [
+            1.0792842780135743,
+            49.430473394239726
+          ],
+          [
+            1.0787435884711556,
+            49.43033452651471
+          ],
+          [
+            1.0786678230584812,
+            49.43040172062436
+          ],
+          [
+            1.0785610627024766,
+            49.430502511616396
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue de Caen",
+        "status": "done",
+        "type": "bandes-cyclables",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0785389665495302,
+            49.43050321075552
+          ],
+          [
+            1.07058070822589,
+            49.428532628717846
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue Jean Jaurès Est",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.070481010349198,
+            49.42853387754752
+          ],
+          [
+            1.0702636462061719,
+            49.42857346190755
+          ],
+          [
+            1.0598279799968395,
+            49.426051020986904
+          ],
+          [
+            1.0595932267227681,
+            49.42601708979279
+          ],
+          [
+            1.0591758875676192,
+            49.4259379169151
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue Jean Jaurès Ouest",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0591489248411108,
+            49.42592689988578
+          ],
+          [
+            1.057599817607155,
+            49.42553594757828
+          ],
+          [
+            1.0561105629968779,
+            49.42515376552325
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue des Alliés",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0561039172278583,
+            49.425152350866625
+          ],
+          [
+            1.055672243607205,
+            49.42485557812381
+          ],
+          [
+            1.054683192517274,
+            49.423903106474796
+          ],
+          [
+            1.0525461472293784,
+            49.421903331783966
+          ],
+          [
+            1.0520292200674533,
+            49.42151724525473
+          ],
+          [
+            1.051878953934164,
+            49.42145148849349
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point des Alliés",
+        "status": "planned",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0518367242569582,
+            49.42142692200625
+          ],
+          [
+            1.0516541383772733,
+            49.4212233153026
+          ],
+          [
+            1.0512541883531696,
+            49.420997084641215
+          ],
+          [
+            1.050836849198049,
+            49.42112716739916
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Gay-Lussac",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0507630137021806,
+            49.42113037166672
+          ],
+          [
+            1.049537079934737,
+            49.419914367295036
+          ],
+          [
+            1.048485037481413,
+            49.41903203828255
+          ],
+          [
+            1.0468852373863342,
+            49.41752186143097
+          ],
+          [
+            1.0439870260589998,
+            49.41505370794772
+          ],
+          [
+            1.043978331493463,
+            49.41482744884402
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point Brossolette Nord-Ouest",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0439502204454811,
+            49.414807715247775
+          ],
+          [
+            1.0436383149960307,
+            49.414757875514226
+          ],
+          [
+            1.0434741542333654,
+            49.41456563606715
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point Brossolette Sud-Ouest",
+        "status": "planned",
+        "type": "bilaterale",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0434850982838952,
+            49.414554956075534
+          ],
+          [
+            1.0434796262586303,
+            49.4143271157067
+          ],
+          [
+            1.0439885246232734,
+            49.414020953544764
+          ],
+          [
+            1.0442894860213698,
+            49.41400671339812
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point Brossolette Sud-Est",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0443059020971646,
+            49.414013833471984
+          ],
+          [
+            1.0445630872921186,
+            49.4140957142491
+          ],
+          [
+            1.0448093284365427,
+            49.41429151555329
+          ],
+          [
+            1.0447819683093087,
+            49.4144944360805
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rond-Point Brossolette Nord-Est",
+        "status": "planned",
+        "type": "bilaterale",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0447874403345736,
+            49.41449799608273
+          ],
+          [
+            1.0446615837497006,
+            49.414683115818434
+          ],
+          [
+            1.0442238217162867,
+            49.41485755493068
+          ],
+          [
+            1.0439885246232734,
+            49.41482551514051
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Sud III",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0442544939946004,
+            49.41396881344647
+          ],
+          [
+            1.0441639359639794,
+            49.41380889814789
+          ],
+          [
+            1.0416153742362724,
+            49.41144377421867
+          ],
+          [
+            1.0394807920779954,
+            49.409474153451015
+          ],
+          [
+            1.0387563278310097,
+            49.40841355568966
+          ],
+          [
+            1.0389115701698302,
+            49.408051600415746
+          ],
+          [
+            1.0385493380452715,
+            49.40783274244404
+          ],
+          [
+            1.0382776639523854,
+            49.40788324821642
+          ],
+          [
+            1.0376296944043872,
+            49.40746228049403
+          ],
+          [
+            1.0369181670176033,
+            49.406696264129295
+          ],
+          [
+            1.0351691573628727,
+            49.4043438936516
+          ],
+          [
+            1.0348974832699582,
+            49.40415869221539
+          ],
+          [
+            1.033694355144405,
+            49.402399243729405
+          ],
+          [
+            1.0336684814209036,
+            49.40159105487413
+          ],
+          [
+            1.0344483852059057,
+            49.3997871523226
+          ],
+          [
+            1.0330056497232363,
+            49.399273455578
+          ],
+          [
+            1.0313626683047517,
+            49.39897878617609
+          ],
+          [
+            1.0308581307036775,
+            49.398599922918294
+          ],
+          [
+            1.0314920369200422,
+            49.39731176597971
+          ],
+          [
+            1.0314144157506462,
+            49.39698340684677
+          ],
+          [
+            1.031026309903723,
+            49.39657084995193
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue de la Voute",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0307870391615666,
+            49.39659586186221
+          ],
+          [
+            1.029014333207357,
+            49.397578220072404
+          ],
+          [
+            1.027917361700304,
+            49.39788663080657
+          ],
+          [
+            1.027259178796868,
+            49.39834353203767
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Aristide Briand Nord",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0271629529952975,
+            49.39837077042213
+          ],
+          [
+            1.025668941486657,
+            49.39681507150107
+          ],
+          [
+            1.0242201545999023,
+            49.39520954516226
+          ],
+          [
+            1.0234678200713176,
+            49.39361335071729
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Pierre Corneille",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0234468782742567,
+            49.393558283295164
+          ],
+          [
+            1.0231641481571785,
+            49.39315351630813
+          ],
+          [
+            1.0226211079317977,
+            49.392292417866656
+          ],
+          [
+            1.0217398324704163,
+            49.390717890849686
+          ],
+          [
+            1.0216382209838457,
+            49.39032783072247
+          ],
+          [
+            1.0215592182273667,
+            49.38977579108402
+          ],
+          [
+            1.0216158848890302,
+            49.38928256863218
+          ],
+          [
+            1.0216612434548153,
+            49.38881873239029
+          ],
+          [
+            1.0218986489556698,
+            49.38834769611154
+          ],
+          [
+            1.0215141911027956,
+            49.38845807827542
+          ],
+          [
+            1.0203262380803721,
+            49.38735161627227
+          ],
+          [
+            1.0194327343308487,
+            49.385938297009034
+          ],
+          [
+            1.0188220966211645,
+            49.38491519337933
+          ],
+          [
+            1.0184485379459716,
+            49.383436355426
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Boulevard Cordonnier",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0184281619984574,
+            49.38341696952074
+          ],
+          [
+            1.019238370097412,
+            49.38322742020182
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Port de Rouen",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0192007906890694,
+            49.38320760055629
+          ],
+          [
+            1.0142575426934854,
+            49.37096623641952
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Sonopa",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-3",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0142350942818439,
+            49.370955743787164
+          ],
+          [
+            1.014171887027544,
+            49.37090635419398
+          ],
+          [
+            1.0149999020542566,
+            49.370507119827465
+          ],
+          [
+            1.0158784828837213,
+            49.370330138607244
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Aristide Briand Sud",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.01587546264372,
+            49.37031541428874
+          ],
+          [
+            1.0154926031330263,
+            49.36935194230321
+          ],
+          [
+            1.0151911474016515,
+            49.36856734123225
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Avenue du Général Leclerc",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0151867163702093,
+            49.368556085960506
+          ],
+          [
+            1.013990931706843,
+            49.36565623706679
+          ],
+          [
+            1.013632874860292,
+            49.36476552885651
+          ],
+          [
+            1.0135444241933271,
+            49.36427852178343
+          ],
+          [
+            1.0133167804163463,
+            49.36393324729616
+          ],
+          [
+            1.012694057711144,
+            49.36245974406316
+          ],
+          [
+            1.0123620450414705,
+            49.36170515138511
+          ],
+          [
+            1.012196139476373,
+            49.36158334730936
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Rue Georges Clémenceau",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0121887936655014,
+            49.3615813316859
+          ],
+          [
+            1.010188212734846,
+            49.35962895817485
+          ],
+          [
+            1.0097472043155449,
+            49.35898961993047
+          ],
+          [
+            1.0090282910695407,
+            49.358219062308905
+          ],
+          [
+            1.0088398380821388,
+            49.35806676778046
+          ],
+          [
+            1.0080069744676905,
+            49.357135737824734
+          ],
+          [
+            1.0071414866757777,
+            49.35615829545287
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
