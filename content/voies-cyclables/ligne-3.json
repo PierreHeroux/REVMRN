@@ -5,56 +5,6 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Avenue Jean Jaurès",
-        "status": "postponed",
-        "type": "inconnu",
-        "link": "/revmrn-3",
-        "quality": "unsatisfactory"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.0071018512784065,
-            49.35614222609013
-          ],
-          [
-            1.0052952367349235,
-            49.35516866557663
-          ],
-          [
-            1.0036125926088175,
-            49.35425771550578
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            1.003589324521073,
-            49.354280828180634
-          ],
-          [
-            1.003202338761156,
-            49.35500553770294
-          ],
-          [
-            1.0029024247973268,
-            49.35516938359345
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 1
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 3,
         "name": "Pont jeanne d'Arc",
         "status": "done",
         "type": "bandes-cyclables",
@@ -1136,7 +1086,7 @@
       "properties": {
         "line": 3,
         "name": "Boulevard du Fossé Blondel",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-3",
         "quality": "unsatisfactory"
@@ -1164,7 +1114,7 @@
       "properties": {
         "line": 3,
         "name": "Boulevard du Grand Aulnay",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-3",
         "quality": "unsatisfactory"
@@ -1224,7 +1174,7 @@
       "properties": {
         "line": 3,
         "name": "Moulineaux",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-3",
         "quality": "unsatisfactory"
@@ -1324,7 +1274,7 @@
       "properties": {
         "line": 3,
         "name": "La Bouille",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-3",
         "quality": "unsatisfactory"
