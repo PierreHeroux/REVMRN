@@ -6,7 +6,7 @@
     <img
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
-      src="https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png"
+      src="https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png"
       width="75"
       height="75"
       :alt="`logo ${config.assoName}`"
