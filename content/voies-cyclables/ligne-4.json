@@ -6,7 +6,7 @@
       "properties": {
         "line": 4,
         "name": "Rue John Fitzgerald Kennedy",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -34,7 +34,7 @@
       "properties": {
         "line": 4,
         "name": "Rue de Beccles",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -58,7 +58,7 @@
       "properties": {
         "line": 4,
         "name": "Rue du Madrillet Ouest",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -202,7 +202,7 @@
       "properties": {
         "line": 4,
         "name": "Boulevard Jean Jaurès",
-        "status": "posponed",
+        "status": "postponed",
         "type": "inconnu",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -330,7 +330,7 @@
       "properties": {
         "line": 4,
         "name": "Avenue de l'Université Est",
-        "status": "posponed",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -358,7 +358,7 @@
       "properties": {
         "line": 4,
         "name": "Avenue Galilée",
-        "status": "posponed",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -386,7 +386,7 @@
       "properties": {
         "line": 4,
         "name": "Avenue Isaac Newton",
-        "status": "posponed",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -430,7 +430,7 @@
       "properties": {
         "line": 4,
         "name": "Rue Julian Grimau",
-        "status": "posponed",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
@@ -474,7 +474,7 @@
       "properties": {
         "line": 4,
         "name": "Rue des Coquelicots",
-        "status": "posponed",
+        "status": "postponed",
         "type": "bilaterale",
         "link": "/revmrn-4",
         "quality": "unsatisfactory"
