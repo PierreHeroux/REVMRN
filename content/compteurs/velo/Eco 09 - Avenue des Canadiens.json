@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Saint-\u00c9tienne-du-Rouvray",
     "coordinates": [
-        "1.06419,49.40027"
+        1.06419,
+        49.40027
     ],
     "lines": [],
     "counts": [

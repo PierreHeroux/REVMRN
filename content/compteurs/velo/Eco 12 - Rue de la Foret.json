@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Val-de-la-Haye",
     "coordinates": [
-        "1.0044,49.37838"
+        1.0044,
+        49.37838
     ],
     "lines": [],
     "counts": [

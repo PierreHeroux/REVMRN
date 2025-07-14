@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Rouen",
     "coordinates": [
-        "1.0947328805923464,49.42872486434751"
+        1.0947328805923464,
+        49.42872486434751
     ],
     "lines": [],
     "counts": [

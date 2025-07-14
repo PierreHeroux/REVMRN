@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Petit-Couronne",
     "coordinates": [
-        "1.05432,49.38941"
+        1.05432,
+        49.38941
     ],
     "lines": [],
     "counts": [

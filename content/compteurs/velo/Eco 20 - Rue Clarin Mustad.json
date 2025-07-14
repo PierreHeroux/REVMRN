@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Duclair",
     "coordinates": [
-        "0.8688155,49.4793219"
+        0.8688155,
+        49.4793219
     ],
     "lines": [],
     "counts": [

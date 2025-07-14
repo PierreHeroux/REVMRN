@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Sotteville-l\u00e8s-Rouen",
     "coordinates": [
-        "1.11105,49.4155"
+        1.11105,
+        49.4155
     ],
     "lines": [],
     "counts": [

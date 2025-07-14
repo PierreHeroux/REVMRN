@@ -3,7 +3,8 @@
     "description": "",
     "arrondissement": "Mont-Saint-Aignan",
     "coordinates": [
-        "1.10022,49.47727"
+        1.10022,
+        49.47727
     ],
     "lines": [],
     "counts": [
