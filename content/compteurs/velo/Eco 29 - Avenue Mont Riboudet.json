@@ -1,95 +1,79 @@
 {
-    "name": "Eco 00 - Quai du Havre",
+    "name": "Eco 29 - Avenue Mont Riboudet",
     "description": "",
     "arrondissement": "Rouen",
     "coordinates": [
-        " 1.0880717,49.4393087"
+        " 1.0709066280922965,49.44643488197109"
     ],
     "lines": [],
     "counts": [
         {
-            "month": "2023-11-01",
-            "count": 5739
-        },
-        {
-            "month": "2023-12-01",
-            "count": 5842
-        },
-        {
-            "month": "2024-01-01",
-            "count": 5611
-        },
-        {
             "month": "2024-10-01",
-            "count": 16279
+            "count": 14452
         },
         {
             "month": "2024-11-01",
-            "count": 12539
+            "count": 12039
         },
         {
             "month": "2024-12-01",
-            "count": 9051
-        },
-        {
-            "month": "2024-02-01",
-            "count": 6040
+            "count": 9862
         },
         {
             "month": "2024-03-01",
-            "count": 9435
+            "count": 1502
         },
         {
             "month": "2024-04-01",
-            "count": 11065
+            "count": 10500
         },
         {
             "month": "2024-05-01",
-            "count": 13573
+            "count": 12370
         },
         {
             "month": "2024-06-01",
-            "count": 15371
+            "count": 13789
         },
         {
             "month": "2024-07-01",
-            "count": 16791
+            "count": 15231
         },
         {
             "month": "2024-08-01",
-            "count": 17429
+            "count": 14621
         },
         {
             "month": "2024-09-01",
-            "count": 18270
+            "count": 14946
         },
         {
             "month": "2025-01-01",
-            "count": 9180
+            "count": 9225
         },
         {
             "month": "2025-02-01",
-            "count": 10069
+            "count": 9665
         },
         {
             "month": "2025-03-01",
-            "count": 15645
+            "count": 13525
         },
         {
             "month": "2025-04-01",
-            "count": 19872
+            "count": 14965
         },
         {
             "month": "2025-05-01",
-            "count": 22522
+            "count": 15952
         },
         {
             "month": "2025-06-01",
-            "count": 22600
+            "count": 17044
         },
         {
             "month": "2025-07-01",
-            "count": 9514
+            "count": 7528
         }
     ]
 }

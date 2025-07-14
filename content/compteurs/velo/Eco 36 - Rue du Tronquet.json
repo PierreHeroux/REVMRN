@@ -1,0 +1,47 @@
+{
+    "name": "Eco 36 - Rue du Tronquet",
+    "description": "",
+    "arrondissement": "Mont-Saint-Aignan",
+    "coordinates": [
+        " 1.071093,49.466222"
+    ],
+    "lines": [],
+    "counts": [
+        {
+            "month": "2024-11-01",
+            "count": 1352
+        },
+        {
+            "month": "2024-12-01",
+            "count": 1845
+        },
+        {
+            "month": "2025-01-01",
+            "count": 1678
+        },
+        {
+            "month": "2025-02-01",
+            "count": 1913
+        },
+        {
+            "month": "2025-03-01",
+            "count": 3404
+        },
+        {
+            "month": "2025-04-01",
+            "count": 3548
+        },
+        {
+            "month": "2025-05-01",
+            "count": 3622
+        },
+        {
+            "month": "2025-06-01",
+            "count": 3717
+        },
+        {
+            "month": "2025-07-01",
+            "count": 1364
+        }
+    ]
+}

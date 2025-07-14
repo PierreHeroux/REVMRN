@@ -1,0 +1,47 @@
+{
+    "name": "Eco 35 - Mont aux Malades",
+    "description": "",
+    "arrondissement": "Rouen",
+    "coordinates": [
+        " 1.0857309,49.453313"
+    ],
+    "lines": [],
+    "counts": [
+        {
+            "month": "2024-11-01",
+            "count": 2696
+        },
+        {
+            "month": "2024-12-01",
+            "count": 3996
+        },
+        {
+            "month": "2025-01-01",
+            "count": 4056
+        },
+        {
+            "month": "2025-02-01",
+            "count": 3726
+        },
+        {
+            "month": "2025-03-01",
+            "count": 6310
+        },
+        {
+            "month": "2025-04-01",
+            "count": 6521
+        },
+        {
+            "month": "2025-05-01",
+            "count": 7000
+        },
+        {
+            "month": "2025-06-01",
+            "count": 7098
+        },
+        {
+            "month": "2025-07-01",
+            "count": 2767
+        }
+    ]
+}
