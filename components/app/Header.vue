@@ -145,7 +145,7 @@
                     >
                       Compteurs vélo
                     </NuxtLink>
-                    <NuxtLink
+                    <!--                    <NuxtLink
                       to="/compteurs/voiture"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
@@ -159,6 +159,8 @@
                     >
                       Comparaison voiture/vélo
                     </NuxtLink>
+                    -->
+
                   </div>
                 </div>
               </PopoverPanel>

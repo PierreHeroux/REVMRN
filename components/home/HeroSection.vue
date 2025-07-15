@@ -46,7 +46,7 @@
             <p
               class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl"
             >
-              Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre le développement du réseau express vélo de la Métropole Rouen Normandie reposant sur la plateforme <a href="https://cyclopolis.fr>Cyclopolis</a>.
+              Une initiative de l'association <strong>{{ assoName }}</strong> pour suivre le développement du réseau express vélo de la Métropole Rouen Normandie reposant sur la plateforme <a href="https://cyclopolis.fr" target="_blank">Cyclopolis</a>.
             </p>
             <div
               class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0"
