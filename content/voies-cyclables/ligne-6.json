@@ -886,10 +886,10 @@
       "properties": {
         "line": 6,
         "name": "Boulevard Dambourney",
-        "status": "wip",
-        "type": "inconnu",
+        "status": "done",
+        "type": "bidirectionnelle",
         "link": "/revmrn-6",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "coordinates": [
