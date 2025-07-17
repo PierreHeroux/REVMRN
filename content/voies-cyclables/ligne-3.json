@@ -1017,6 +1017,33 @@
       "type": "Feature",
       "properties": {
         "line": 3,
+        "name": "Avenue Jean Jaures",
+        "status": "postponed",
+        "type": "inconnu",
+        "link": "/revmrn-3",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.0071070274024123,
+            49.35616175609718
+          ],
+          [
+            1.0065666558743374,
+            49.35584549407477
+          ],
+          [
+            1.0036609670172822,
+            49.35427423561549
+          ]
+        ],
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
         "name": "Rue de Bas",
         "status": "done",
         "type": "voie-verte",
