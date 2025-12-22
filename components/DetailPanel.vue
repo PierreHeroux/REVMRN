@@ -4,7 +4,7 @@
     v-if="isLargeScreen"
     :open="isPanelOpen"
     panel-id="voie-cyclable-details-sidebar"
-    :title="`Voie Lyonnaise ${selectedLine}`"
+    :title="`Itinéraire ${selectedLine}`"
     width="w-[1015px]"
     min-width="min-w-[700px]"
     content-classes="p-0"
@@ -28,7 +28,7 @@
   >
     <template #title>
       <div class="flex gap-2 align-middle items-center">
-        <h2 class="text-lg font-medium leading-6">Voie Lyonnaise {{ selectedLine }}</h2>
+        <h2 class="text-lg font-medium leading-6">Itinéraire {{ selectedLine }}</h2>
         <a
           v-if="pathToLine"
           :to="pathToLine"
@@ -72,7 +72,7 @@ const selectedLine = computed(() => {
 
 const isPanelOpen = computed(() => props.open && !!props.line);
 
-const pathToLine = computed(() => (selectedLine.value ? `/voie-lyonnaise-${selectedLine.value}` : null));
+const pathToLine = computed(() => (selectedLine.value ? `/revmrn-${selectedLine.value}` : null));
 
 function getFirstVisibleAnchor(): string | null {
   const container =

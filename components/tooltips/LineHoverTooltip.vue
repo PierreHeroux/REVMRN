@@ -99,8 +99,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600',
     },
     postponed: {
-      label: 'reportée',
-      date: 'après 2026',
+      label: 'à traiter',
       class: 'text-white bg-lvv-pink rounded-xl px-2',
     },
     variante: {
@@ -109,7 +108,6 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     },
     'variante-postponed': {
       label: 'variante reportée',
-      date: 'après 2026',
       class: 'text-white bg-lvv-pink rounded-xl px-2',
     },
     unknown: {

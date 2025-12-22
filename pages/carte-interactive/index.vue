@@ -54,8 +54,8 @@ const { filters, actions, filteredFeatures, totalDistance, filteredDistance } = 
   allLines: computed(() => voies.value),
 });
 
-const description = `Découvrez la carte interactive des ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const description = `Découvrez la carte interactive du ${getRevName()}. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.`;
+const COVER_IMAGE_URL = 'https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png';
 useHead({
   title: `Carte à jour des ${getRevName()}`,
   meta: [

@@ -5,9 +5,11 @@
         Distance totale:
         <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
       </div>
+      <!--
       <div v-if="voie.trafic" class="text-center text-sm text-gray-900">
         Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>
       </div>
+      -->
       <ProgressBar :voies="[geojson]" />
       <Stats :voies="[geojson]" :precision="1" />
       <StatsQuality v-if="displayQuality()" :voies="[geojson]" :precision="1" />
@@ -28,7 +30,7 @@
           :actions="actions"
         />
       </ClientOnly>
-
+      <!--
       <div class="mt-2 flex justify-between gap-4">
         <button
           type="button"
@@ -39,7 +41,7 @@
           <span> Compteurs vélos </span>
           <Icon :name="displayBikeCounters ? 'mdi:eye' : 'mdi:eye-off'" class="h-5 w-5" aria-hidden="true" />
         </button>
-
+   
         <div class="flex items-center gap-4">
           <button
             type="button"
@@ -62,6 +64,7 @@
           </a>
         </div>
       </div>
+      -->
     </section>
   </div>
 </template>
@@ -137,13 +140,13 @@ function downloadGpx() {
   const gpx = GeoJsonToGpx(geojson.value, {
     creator: 'Cyclopolis - La Ville à Vélo',
     metadata: {
-      name: `Voie Lyonnaise ${props.voie.line}`,
-      desc: `Tracé de la voie lyonnaise ${props.voie.line} - Source: La Ville à Vélo`,
+      name: `Itinéraire ${props.voie.line}`,
+      desc: `Tracé de l'itinéraire ${props.voie.line} - Source: Sabine`,
       author: {
-        name: 'Cyclopolis - La Ville à Vélo',
+        name: 'REVMRN - Sabine',
         link: {
-          href: `https://cyclopolis.fr/voie-lyonnaise-${props.voie.line}`,
-          text: 'Cyclopolis - La Ville à Vélo',
+          href: `https://revmrn.netlyfy.app/revmrn-${props.voie.line}`,
+          text: 'REVMRN - Sabine',
         },
       },
     },
