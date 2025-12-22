@@ -7,9 +7,10 @@
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Où en est le projet ?</h2>
           <p class="text-xl text-gray-500">
-            Après une phase d'étude et de concertation en 2022 et 2023, le projet est maintenant en phase de
-            réalisation.<br />
-            Malgré de nombreux reports, les travaux se multiplient entre l'été 2024 et l'été 2026.
+            Ce projet est né au début de la mandature métropolitaine 2020-2026. 
+            Après une phase de concertation, d'études techniques de faisabilité, l'élaboration du plan vélo 
+            métropolitain, le projet est maintenant en phase de réalisation et de déploiment.<br /> 
+            Les travaux se multiplient depuis l'année 2023.
           </p>
         </div>
       </div>
@@ -29,11 +30,29 @@
         <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
           <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Avancement par ligne</h2>
           <p class="text-xl text-gray-500">
-            Choisissez une {{ getRevName('singular') }} pour connaitre le détail du projet et voir son niveau
+            Choisissez un itinéraire du {{ getRevName('singular') }} pour connaitre le détail du projet et voir son niveau
             d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />
+      </div>
+    </div>
+    <div class="max-w-7xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
+      <div class="space-y-8 sm:space-y-12">
+        <div class="space-y-5 sm:mx-auto sm:max-w-xl sm:space-y-4 lg:max-w-5xl text-center">
+          <h2 class="text-3xl font-extrabold tracking-tight sm:text-4xl">Contenu du site</h2>
+          <p class="text-xl text-gray-500">
+            Les informations figurant sur ce site ont été produites bénévolement de façon collaborative 
+            par des citoyens engagés auprès de l'association Sabine. Certaines d'entre elles sont issues 
+            des documents produits par la Métropole Rouen Normandie. D'autres, notammement celles 
+            relatives à la qualification des tronçons ont été discutées au regard des critères définis 
+            dans la <a href="https://revmrn.netlify.app/blog/methodo">méthodologie de caractérisation 
+              des itinéraires</a>. Leur exactitude n'est pas garantie. Elles sont sujettes à discussion 
+              et ont vocation à évoluer au rythme de l'avancement du projet. Les contributions pour les 
+              tenir à jour sont les bienvenues.
+          </p>
+        </div>
+        
       </div>
     </div>
     <div class="py-16">
