@@ -47,7 +47,7 @@
               pour suivre le développement du Réseau Express Vélo de la Métropole Rouen Normandie reposant sur la plateforme <a href="https://cyclopolis.fr" target="_blank">Cyclopolis</a>.
             </p>
             <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-              <strong></strong>Ce site est actuellement dans une version document de travail.</strong>
+              <strong>Ce site est actuellement dans une version document de travail.</strong>
             </p>
             <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
               <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
