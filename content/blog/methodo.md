@@ -1,73 +1,111 @@
 ---
 title: Méthodologie
-description: Réponses aux questions fréquentes sur les données et la méthodologie de Cyclopolis.
-imageUrl: https://cyclopolis.lavilleavelo.org/cyclopolis.png
+description: Méthodologie de caractérisation des tronçons du Réseau Express Vélo
 ---
 
-*Pourquoi ce tronçon est marqué « terminé » alors qu’il n’y a eu aucuns travaux ?  
+Sur cette page, nous expliquons la façon dont les aménagements sont caractérisés. 
+
+*Pourquoi ce tronçon est marqué « réalisé » alors qu’il n’y a pas eu de travaux ?  
 Pourquoi ma rue est considérée comme « prévue » alors qu’il y a déjà une piste ?  
-La piste est au Nord sur votre carte mais la concertation l'a annoncé au Sud !  
 Sur quoi vous basez-vous pour considérer qu'un tronçon est de meilleure qualité qu'un autre ?  
-À quoi dois-je m’attendre sur les tronçons marqués « reporté après 2026 » ?  
-Où est la Voie Lyonnaise 13 et les autres tronçons annoncés pour 2030 ?*
+Où est l'itinéraire 12 du REV ?*
 
 On vous explique tout !
 
-## Que signifient les types de chaque tronçon et les statistiques "Typologie 2026"
-Il s'agit de chacun des aménagements cyclables que rencontreront les cyclistes sur chacune des lignes à la fin du mandat en 2026. Mis bout-à-bout, et rapportés à la distance totale des différents itinéraires, on peut ensuite obtenir des statistiques détaillées.
+## Que signifient les types de chaque tronçon et les statistiques
+La plateforme de suivi de l'avancement du Réseau Express Vélo répertorie et catégorise les itinéraires du Réseau Express Vélo annoncé par la Métropole Rouen Normandie. Ce réseau figure notamment dans le plan Vélo 2035 de la Métropole.
+Mis bout-à-bout, et rapportés à la distance totale des différents itinéraires, on peut ensuite obtenir des statistiques détaillées.
 
-L'ensemble du linéaire des Voies Lyonnaises est utilisé, y compris les tronçons reportés après 2026. Dans ce cas, l'aménagement indiqué est celui présent actuellement, car il ne sera malheureusement pas amélioré avant la fin du mandat en cours.
+L'ensemble du linéaire du Réseau Express Vélo est utilisé, qu'il s'agisse des tronçons existants avant l'annonce du REV, de ceux réalisés, ou de ceux prévus. 
 
-Quand un tronçon est prévu mais qu'il n'y a toujours eu aucune communication publique à son sujet, il est considéré comme "Inconnu" même s'il peut déjà comporter des aménagements cyclables aujourd'hui. A ce stade, nous ne sommes pas en mesure de dire si ce tronçon sera reporté après 2026 ou s'il sera réaménagé et sécurisé d'ici la fin du mandat. La typologie sera évidemment mise à jour dès que nous aurons obtenu une information.
+Les tronçons sont essentiellement catégorisés selon 3 critères :
+- le type d'aménagement (piste cyclable bidirectionnelle, piste cyclable bilatérale, bande cyclable, voie bus/vélo, voie verte, zone de rencontre, inconnu)
+- son statut de réalisation (réalisé, en travaux, planifié, à traiter)
+- un critère qualitatif (satisfaisant ou non satisfaisant)
+
+Nous décrivons ci-dessous la méthodologie de catégorisation selon ces trois critères que nous avons utilisée. Bien évidemment, avec l'avancement des travaux, le statut d'un tronçon peut évoluer dans le temps (de « inconnu » vers « piste bilatérale », de « planifié » vers en travaux, de « non satisfaisant » vers « satifaisant »...). La plateforme de suivi tâchera de refléter le plus directement possible ces évolutions, mais il peut exister ponctuellement des différences. N'hésitez pas à nous les signaler. 
+
+## Typologie des aménagements
+Sur la plateforme de suivi du REV, les types d'aménagements retenus sont :
+- La piste cyclable bilatérale
+- La piste cyclable bidirectionnelle
+- La voie bus/vélo
+- La voie verte
+- La bande cyclable
+- La zone de rencontre
 
 Lorsqu'un tronçon présente une différence d'aménagement cyclable entre les deux sens de circulation, nous retenons un seul des deux aménagements, en préférant retenir celui qui est majoritaire ou celui qui est le plus représentatif du ressenti global. Ce choix permet de simplifier les différents affichages et statistiques du site.
 
-Enfin, si une des typologie représente moins de 0.5% du linéaire total, il est masqué de l'écran des statistiques pour éviter d'afficher un pourcentage arrondi de 0% qui laisserait croire que cette typologie n'est pas présente.
+Quand un tronçon est prévu mais que son itinéraire ou le type d'aménagement envisagé n'a pas été annoncé, il est catégorisé comme « Inconnu ».
 
-## En travaux sur le terrain, mais pas sur Cyclopolis ?
-Avec la multiplication des travaux en 2024 et 2025, vous pourrez peut-être constater que certains tronçons sont réellement en travaux, mais qu'ils n'apparaissent pas sous ce statut sur la carte interactive de Cyclopolis. Malgré nos efforts pour suivre au plus près l'avancement du chantier des Voies Lyonnaises, il est possible que nous n'ayons pas encore eu l'information de début des travaux. Dans ce cas, n'hésitez pas à nous le signaler sur [ce lien](https://lavilleavelo.org/contact/).
+Quand des travaux sont planifiés, mais qu'il existe déjà un aménagement, le tronçon est catégorisé avec le type d'aménagement existant jusqu'au démarrage des travaux, moment où il sera basculé avec le type d'aménagement envisagé.
 
-En revanche, nous considérons qu'un tronçon est en travaux si et seulement si ceux-ci ont réellement lieu sur le terrain, et si ils concernent réellement l'aménagement d'une piste cyclable. Ainsi, la présence d'un "totem travaux" de la Métropole n'est pas suffisant. En outre, tous les travaux préalables ne sont pas considérés. Ainsi, le désamiantage préalable de la chaussée ou la déviation des réseaux souterrains ne sont pas retenus. C'est le cas par exemple de ceux des projets SYTRAL du BHNS, T9 et T10 ou encore de ceux qui ont concerné l'avenue du 25e RTS entre Lyon 9 et Champagne sur la VL4.
+Enfin, si une des typologies représente moins de 0.5% du linéaire total, elle ne figure pas sur l'écran des statistiques pour éviter d'afficher un pourcentage arrondi de 0% qui laisserait croire que cette typologie n'est pas présente.
 
-## Terminé ou Prévu ?
-Les tronçons considérés comme "terminés" sont tous les tronçons suffisament sécurisés dont on est certain qu’ils accueilleront une Voie Lyonnaise en 2026 ou ayant déjà fait l’objet d’une concertation qui mentionnait explicitement que l’aménagement cyclable sécurisé existant serait conservé en l’état. Parmi ces anciens aménagements existants, on retient les pistes cyclables séparées, les voies bus élargies d'au moins 4m50 de large, les rues avec trafic inférieur à 1000 voitures par jour et par sens ainsi que les voies vertes. Pour ces dernières, le distinguo entre un "trottoir cyclable" conflictuel et un aménagement fonctionnel hors zone dense avec peu de piétons se fait via la notion de qualité. Un tronçon de qualité non satisfaisante devra être réaménagé à moyen-terme pour mettre fin aux conflits entre usagers. Seul l'aménagement circulable en vélo est considéré, et non le marquage et le jalonnement spécifique aux Voies Lyonnaises.
+## Statut
+Le tronçon d'un aménagement est catégorisé par rapport à son statut. Il peut être : 
+- réalisé
+- en travaux
+- planifié
+- à traiter
 
-**Exemples :**
+Nous considérons un tronçon comme « réalisé » s'il est constitutif d'un itinéraire du Réseau Express Vélo et qu'il est équipé d'un aménagement cyclable, que cet aménagement cyclable ait été réalisé depuis l'annonce du REV par la Métropole ou qu'il soit antérieur sans qu'aucuns travaux de reprise ne soit envisagé car satisfaisant les caractéristiques du REV.
 
-- La rue Victor Hugo à Tassin a été aménagée en 2021. Elle n’a pas fait l’objet d’une concertation Voie Lyonnaise, mais nous savons qu’elle accueillera la Voie Lyonnaise 5.
-- Le quai Fulchiron à Lyon 5 a été aménagé en 2019. La concertation de la Voie Lyonnaise 3 sur ce tronçon stipule que l’aménagement sera conservé en l’état.
-- Le tunnel mode doux de la Croix-Rousse à Lyon 4 a été aménagé en 2013. Nous savons qu’il accueillera plusieurs Voies Lyonnaises, mais avant que la concertation sur ce tronçon n’ait eu lieu, nous ne savions pas si la Métropole de Lyon a prévu d’y faire des modifications dans le cadre du projet des Voies Lyonnaises. Il était donc resté en « prévu » jusqu’à ce que l’information ait été rendue publique.
-- L’avenue du Dauphiné à Chassieu entre l’avenue du Progrès et le chemin de Trèves comporte déjà une voie verte étroite, mais la Métropole de Lyon a annoncé dans son dossier de concertation qu’il ne serait pas jalonné en Voie Lyonnaise du fait du report du réaménagement du giratoire d’Usingen.
+Si un tronçon dispose d'un aménagement, mais que des travaux de reprise sont envisagés, son statut sera « planifié ». 
 
-*Une information sur le démarrage de nouveaux travaux ? Besoin de faire remonter une information ou une remarque sur le contenu du site ?  
-N'hésitez pas à nous contacter sur nos réseaux sociaux ou via [cette page](https://lavilleavelo.org/contact/).*
+Un tronçon dispose du statut « planifié » dès lors qu'il aura été présenté aux associations par la Métropole lors du processus de concertation prévu dans le plan vélo.
 
-## Tronçon qualitatif ou pas ?
-Pour juger de la qualité d'un tronçon, nous nous appuyons sur plusieurs éléments. D'abord, tout tronçon considéré comme reporté est de facto de mauvaise qualité, car cela signifie que l'aménagement cyclable existant (s'il y en a un) n'est pas assez sécurisé pour les cyclistes ou bien que son revêtement n'est pas adapté à un usage quotidien du vélo. Pour les autres aménagements considérés comme sécurisés (terminés ou prévus), la notion de mauvaise qualité peut être liée à plusieurs facteurs : voie verte trop étroite ou inadaptée au flux de piétons ou cyclistes, zone de rencontre ou vélorue avec un trafic automobile trop élevé, mixité avec les bus ou encore aménagement dissymétrique (un sens de circulation sécurisé et pas l'autre).
+Un tronçon sera considéré « en travaux » dès lors que les travaux visant l'implantation de l'aménagement cyclable auront effectivement commencé. Cela n'intègre pas les travaux préalables tels que les travaux sur le réseau de chaleur ou d'enfouissement des réseaux aeriens. Le tronçon sera considéré en travaux jusqu'à son ouverture effective à la circulation en sécurité des cyclistes.
 
-## Reporté après 2026
-Il s’agit des tronçons qui faisaient partie des promesses politiques annoncées en septembre 2021, puis qui ont fait l’objet d’une communication de la Métropole (via un dossier de concertation ou une communication médiatique) expliquant qu’ils ne seraient finalement pas réaménagés ou sécurisés d’ici la fin du mandat en cours. Parmi ceux-ci, nous conservons la notion de "reporté" seulement si l'aménagement existant sur ce tronçon n'est pas suffisement sécurisé. Dans le cas contraire, le tronçon reporté passe alors en "terminé", noté comme tronçon aménagé sur un précédent mandat, avec une notion de qualité adéquate. Est considéré non sécurisé sur Cyclopolis les aménagements suivants : absence d'aménagement cyclable, bandes cyclables et voie bus étroite. Nous ajoutons aussi dans cette catégorie les voies vertes en revêtement stabilisé qui sont parsemées de cavités dangereuses et qui sont très salissantes par temps de pluie. Nous indiquons « après 2026 » et pas « 2030 », car tout ce qui ne sera pas réalisé en 2026 relève d’une promesse de campagne électorale et pas d’un projet réel (cf. paragraphe « Réseau 2030 »).
+Un tronçon sera considéré comme « à traiter » s'il n'est ni réalisé, ni en travaux, ni planifié. Il sera également considéré comme  « à traiter » s'il est équipé d'un aménagement ancien ne satisfaisant pas les caractéristiques d'un aménagement du REV.
 
-## Tracé à définir / Linéaire inconnu
-Ces sections n’ont pas encore fait l’objet de concertations ou de communications publiques, et nous considérons qu’il existe différents itinéraires possibles pour y faire passer la Voie Lyonnaise. Dans l’attente d’informations plus détaillées, nous préférons donc ne pas privilégier un itinéraire sur un autre. Cependant, pour améliorer la lecture cartographique et éviter l'illusion de la "ligne droite", nous privilégions de manière arbitraire certains itinéraire de manière à obtenir un rendu et des statistiques plus fiables sur la ligne.
+## Critère qualitatif
+Même s'il peut exister une gradation dans l'évaluation du caractère qualitatif d'un tronçon, pour des raisons techniques et afin de simplifier la présentation des statistiques, un tronçon sera considéré « satisfaisant » ou « non satisfaisant ». Ainsi, les statistiques ne sont pas à prendre au pied de la lettre, considérant que des aménagements imparfaits auront pu être catégorisés comme « satisfaisants » et que des aménagements catégorisés comme « non satisfaisants » auraient pu être considérés satisfaisants. La distinction entre un aménagement satisfaisant et un aménagement non satisfaisant peut être sujette à discussion, à interprétation. Nous décrivons ci-dessous les critères issu d'un parti pris que nous avons adoptés pour opérer cette distinction. 
 
-## Calcul des statistiques du site
-Pour obtenir les chiffres lisibles sur le tableau de bord de la page d’accueil du site, nous ne comptons qu’une seule des variantes sur les tronçons concernés, et nous ne comptons qu’une seule fois les tronçons en commun avec plusieurs Voies Lyonnaises.
+Il s'ensuit qu'un aménagement catégorisé comme « non satisfaisant » ne devra pas être rejeté en bloc. A l'inverse, un aménagement catégorisé comme « satisfaisant » peut présenter des marges d'amélioration.
 
-## 250 ou 260km ?
-Dans ses annonces officielles de septembre 2021, la Métropole de Lyon a évoqué un réseau des Voies Lyonnaises de 250km. Après avoir fait son propre décompte du réseau annoncé pour 2026, La Ville à Vélo a obtenu une distance totale autour de 260km. Nous avons souhaité rester factuel, c’est pourquoi toutes les distances qui figurent sur la plateforme Cyclopolis correspondent aux distances réelles calculées par nos bénévoles. Le code source du site web est public et chacun est en mesure de reprendre nos informations géographiques pour vérifier leur exactitude.
+Les critères exposés ci-dessous peuvent paraître drastiques et exigeants à certains. Rappelons qu'il s'agit de caractériser les aménagements du Réseau Express Vélo, soit le réseaux cyclable structurant de la Métropole, son ossature principale à laquelle se connecte les itinéraires du réseau secondaire. 
+
+La définition de ces critères à été pensée de sorte que le réseau express vélo soit un instrument effectif du report modal vers le vélo, et non qu'il satisfasse uniquement les besoins des pratiquants actuels. Ainsi, les itinéraires du réseau express vélo doivent pouvoir accueillir tou·te·s les cyclistes quelles que soient leurs aptitudes (expérimentés et débutants, porteurs de handicap), leur âge (du collégien en mobilité autonome aux personnes âgées), tous les vélos, notamment les vélos de grandes dimensions (cargo, longtail, dotés de saccoches, de remorques, tandems, tricycles, cyclologistique, vélos spécifiques à certains handicaps). De même, les itinéraires express doivent être efficaces. Ils doivent notamment offrir des tracés directs, permettre de rouler en sécurité sur un aménagement dédié et bénéficier d'un régime de priorité favorable. 
+
+Un tronçon sera considéré « non satisfaisant » s'il n'est pas réalisé (à traiter, en travaux, planifié) ou si ses caractéristiques techniques sont jugées insuffisantes. Plus précisément, sont examinés le revêtement, la largeur de l'aménagement, la typologie de l'aménagement, le fait qu'il offre une séparation suffisante avec les autres usagers de l'espace, le fait qu'il bénéficie d'un régime de priorité favorable.
+
+### Typologie d'aménagement
+Dans le cadre du réseau express vélo, seules les implantations suivantes sont considérées satisfaisantes : 
+- piste bilatérale
+- piste bidirectionnelle
+- voie-verte
+
+### Revêtement
+Le revêtement d'un tronçon « satifaisant » doit offrir de bonnes conditions de roulage, ne pas présenter d'aspérités systématiques (nid de poule, racine...)
+
+### Largeur
+Nous donnons ici les largeurs minimales que doivent observer les aménagements pour être considérés comme « satifaisant ». Ces largeurs s'entendent sans obstacle : 
+- piste monodirectionnelle : 2m minimum
+- piste bidirectionnelle : 3m minimum
+- voie verte : 3,3m minimum
+
+### Séparation
+Un itinéraire du Réseau Express Vélo doit permettre des trajets directs, sécurisés et rapides. Ainsi, il doit en particulier offrir des conditions de circulation où la séparation avec les autres flux est suffisamment marquée. C'est notamment pour cette raison que les implantations sous la forme de bande cyclable, de zone de rencontre ou de voie bus/vélo sont considérées comme "non satisfaisantes". Lorsque les pistes cyclables sont implantées à proximité immédiate des cheminements piétons, nous examinons la démarcation qui doit être opérée par une différence altimétrique et une distinction des couleurs des revêtements. Si un tronçon du réseau express vélo peut être implanté par le biais d'un voie verte, celui-ci ne sera considéré "satisfaisant" que si le flux piéton est faible. Ainsi, une voie verte en mileu urbain sera considérée « non satisfaisante ».
+
+### Régime de priorité
+Pour pouvoir être qualifié d'itinéraire du réseau express, l'aménagement cyclable doit disposer d'un régime de priorité favorable.
+
+### Rayons de courbure
+Les rayons de courbures des girations doivent être compatibles avec un usage de type réseau express. Le CEREMA indique notamment dans ses recommandations pour l'élaboration des pistes cyclables, que pour les aménagements cyclables structurants, il est nécessaire de proposer des rayons de courbure importants, ne contraingnant pas les cyclistes à ralentir pour aborder les girations. Ainsi, un rayon de courbure inférieur à 10m affecte la vitesse à laquelle les cyclistes peuvent rouler et, par conséquent, l'efficacité de l'aménagement.
+
+### Franchissement des seuils
+Un ressaut est inconfortable, jusqu’à constituer parfois un danger pour un cycliste, en particulier s'il faut l'aborder de biais : risque de chute, voilement de roues. Les itinéraires devront privilégier des raccordement à 0 avec une continuité de matériau.
+
+## Quelques différences avec les informations données par la Métropole Rouen Normandie
+Les longueurs des itinéraires et des tronçons annoncées sur la plateforme peuvent présenter quelques différences avec celles annoncées par la Métropole. Ces différences sont relativement minimes (au plus quelques centaines de mètres). Les longueurs indiquées sur la plateforme sont parfois supérieures et parfois inférieures à celles annoncées par la Métropole. Elles résultent de calculs automatiques réalisés à partir des informations géographiques du tracé des itinéraires réalisé par nos bénévoles. 
+Le code source du site web est public et chacun est en mesure de reprendre nos informations géographiques pour vérifier leur exactitude.
+Nous étudierons les demandes de modification des informations géographiques.
+
+La longueur totale du réseau, sur laquelle se base un certain nombre de statistique, est calculée comme la somme des longueurs des différents itinéraires. Ainsi, si un tronçon est partagé entre plusieurs itinéraires, sa longueur est comptabilisée autant de fois. La longueur totale que nous obtenons nous obtenons après ce calcul est équivalente, à quelques centaines de mètre près à la longueur annoncée par la Métropole, nous laissant penser qu'une méthodologie identique est utilisée.
 
 ## Précision des cartographies
-Nous nous sommes efforcés d’être le plus précis possible sur le positionnement de l’aménagement cyclable dans nos cartes interactives. Cependant, certains tronçons ont été dessinés à un moment où nous ignorions le côté d’insertion de la piste sur la rue. Ainsi, en zoomant beaucoup sur une rue en particulier, il est possible de retrouver des incohérences. C’est tout à fait normal, car la carte interactive a pour objectif principal de repérer les rues concernées par l’aménagement et pas son insertion précise. Nous travaillerons cependant à une amélioration de cette précision de manière à pouvoir intégrer les informations géographiques de la plateforme au sein de la communauté d’OpenStreetMap.
-
-Vous pouvez consulter cet article pour en savoir plus à propos des Voies Lyonnaises sur OpenStreetMap : [Les Voies Lyonnaises sur OpenStreetMap](/blog/voies-lyonnaises-open-street-map).
-
-## Réseau 2030
-La plateforme Cyclopolis a pour objectif de surveiller la bonne réalisation du réseau cyclable des Voies Lyonnaises sur le mandat en cours de la Métropole de Lyon. Ce mandat se termine en 2026. C’est sur ce projet précis que porte la plateforme Cyclopolis lancée à l’automne 2023.
-
-En cas de non-réélection de la majorité politique actuelle au Grand Lyon, les aménagements qui ne seront pas réalisés à l’été 2026 pourraient faire l’objet d’ajustements majeurs voire d’abandons purs et simples des nouveaux élus qui seront nommés lors de l’élection métropolitaine de 2026. Il n’est donc pas possible à ce stade d’affirmer que les tronçons reportés et ceux annoncés pour « 2030 » seront réellement réalisés à cette date.
-
-A l’occasion des campagnes pour les élections métropolitaines de 2026, la plateforme Cyclopolis évoluera pour comparer les programmes des différentes formations politiques candidates au sujet du réseau des Voies Lyonnaises à l’horizon 2032.
+Nous nous sommes efforcés d’être le plus précis possible sur le positionnement de l’aménagement cyclable dans nos cartes interactives. Cependant, certains tronçons ont été dessinés à un moment où nous ignorions le côté d’insertion de la piste sur la rue. Ainsi, en zoomant beaucoup sur une rue en particulier, il est possible de retrouver des incohérences. C’est tout à fait normal, car la carte interactive a pour objectif principal de repérer les rues concernées par l’aménagement et pas son insertion précise. Nous travaillerons cependant à une amélioration de cette précision de manière à pouvoir croiser les informations géographiques de la plateforme avec celles d'OpenStreetMap.
 
 ## Réutilisation du contenu du site
-Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du nom de l’association contributrice « La Ville à Vélo » (avec lien vers <a href="https://lavilleavelo.org" target="_blank">https://lavilleavelo.org</a>).
+Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme « REV MRN » (avec lien vers <a href="revmrn.netlify.app" target="_blank">https://revmrn.netlify.app</a>) et du nom de l’association contributrice « Sabine » (avec lien vers <a href="https://sabinerouenvelo.org" target="_blank">https://sabinerouenvelo.org</a>).
