@@ -10,13 +10,6 @@
               src="https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png"
               :alt="`logo ${getAssoName()}`"
             />
-            <!--
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
-            />
-            -->
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
@@ -63,15 +56,6 @@
                     >
                       Carte interactive
                     </NuxtLink>
-                    <!--
-                    <NuxtLink
-                      to="/evolution"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-                      @click="close()"
-                    >
-                      Évolution du réseau
-                    </NuxtLink>
-                    -->
                     <NuxtLink
                       to="/plan-officiel"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -187,23 +171,6 @@
                     >
                       Compteurs vélo
                     </NuxtLink>
-                    <!--
-                    <NuxtLink
-                      to="/compteurs/voiture"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-                      @click="close()"
-                    >
-                      Compteurs voiture
-                    </NuxtLink>
-                    
-                    <NuxtLink
-                      to="/compteurs/comparaison"
-                      class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
-                      @click="close()"
-                    >
-                      Comparaison voiture/vélo
-                    </NuxtLink>
-                    -->
                   </div>
                 </div>
               </PopoverPanel>
@@ -291,22 +258,6 @@
                 >
                   <span class="ml-3 text-base font-medium text-gray-900"> Compteurs vélo </span>
                 </NuxtLink>
-                <!--
-                <NuxtLink
-                  to="/compteurs/voiture"
-                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
-                  @click="close()"
-                >
-                  <span class="ml-3 text-base font-medium text-gray-900"> Compteurs voiture </span>
-                </NuxtLink>
-                <NuxtLink
-                  to="/compteurs/comparaison"
-                  class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
-                  @click="close()"
-                >
-                  <span class="ml-3 text-base font-medium text-gray-900"> Comparaison voiture/vélo </span>
-                </NuxtLink>
-                -->
                 <!-- Autres -->
                 <hr class="h-px bg-gray-200 border-0" />
 
