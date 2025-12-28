@@ -29,7 +29,7 @@ export default class LogoControl {
     // on click, go to the logo's website in a new tab
     this._image.style.cursor = 'pointer';
     this._image.onclick = () => {
-      window.open('https://lavilleavelo.org/', '_blank');
+      window.open('https://sabinerouenvelo.org/', '_blank');
     };
 
     this._container.appendChild(this._image);

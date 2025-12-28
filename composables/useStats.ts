@@ -184,7 +184,7 @@ export const useStats = () => {
         link: generateLink(['planned', 'unknown']),
       },
       postponed: {
-        name: 'Reportés',
+        name: 'A traiter',
         distance: postponedDistance,
         percent: getPercent(postponedDistance),
         class: 'text-lvv-pink font-semibold',

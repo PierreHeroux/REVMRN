@@ -40,7 +40,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
       },
     },
     {
-      label: 'Prévu pour 2026',
+      label: 'Prévu',
       isEnabled: true,
       statuses: ['planned'],
       customStyle: {
@@ -50,7 +50,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
       },
     },
     {
-      label: 'Reporté',
+      label: 'A traiter',
       isEnabled: true,
       statuses: ['postponed', 'variante-postponed'],
       customStyle: {
@@ -194,7 +194,7 @@ export function useBikeLaneFilters({ allFeatures, allGeojsons, allLines }: UseBi
             .map((line) => {
               const color = getLineColor(line);
               return {
-                label: `VL ${line}`,
+                label: `Itinéraire ${line}`,
                 isEnabled: true,
                 line,
                 color,
