@@ -51,7 +51,7 @@
     <h2>Source des données</h2>
     <p>
       Les données proviennent de
-      <a href="https://data.eco-counter.com/ParcPublic/?id=3902#" target="_blank">data.eco-counter.com</a>.
+      <a href="https://rouenmetropole.opendatasoft.com/pages/comptages-modes-doux/" target="_blank">la plateforme opendata de la Métropole Rouen Normandie.</a>.
     </p>
   </ContentFrame>
 </template>

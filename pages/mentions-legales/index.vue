@@ -94,7 +94,7 @@
         <p>
           Toute réutilisation brute des cartographies interactives du site, des chiffres du tableau de bord et des
           détails écrits des tronçons de chaque ligne doivent faire systématiquement mention du nom de la plateforme «
-          Cyclopolis » (avec lien vers <a href="https://cyclopolis.fr" target="_blank">https://cyclopolis.fr</a>) et du
+          REVMRN » (avec lien vers <a href="https://revmrn.netlify.app" target="_blank">https://revmrn.netlify.app</a>) et du
           nom de l’association contributrice « {{ getAssoName() }} » (avec lien vers
           <a :href="`${getAssoLink()}`" target="_blank">{{ getAssoLink() }}</a
           >).
@@ -106,7 +106,7 @@
           site et toute information, textes, noms, images, photos, logos, liens, etc. sont fournis « en l’état » et sans
           garantie expresse ou implicite. En particulier, nous ne garantissons pas l'exactitude ou l'état complet des
           informations présentées sur ce site web ni ne garantissons que l'accès à ce site web sera ininterrompue et
-          sans erreur. En aucun cas CYCLOPOLIS ne pourra être tenu responsable pour tout dommage ou perte résultant de
+          sans erreur. En aucun cas REVMRN ne pourra être tenu responsable pour tout dommage ou perte résultant de
           l'utilisation de toute information contenue sur le site web, y compris, sans limitation, les dommages
           indirects ou tout autre dommage suite ou en rapport avec l'utilisation du site web.
         </p>
