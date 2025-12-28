@@ -204,7 +204,7 @@ onMounted(() => {
 
   if (options.logo) {
     const logoControl = new LogoControl({
-      src: 'https://cyclopolis.lavilleavelo.org/logo-lvv-carte.png',
+      src: 'https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png',
       alt: `logo ${config.assoName}`,
       width: 75,
       height: 75,

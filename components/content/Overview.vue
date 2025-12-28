@@ -5,9 +5,6 @@
         Distance totale:
         <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
       </div>
-      <div v-if="voie.trafic" class="text-center text-sm text-gray-900">
-        Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>
-      </div>
       <ProgressBar :voies="[geojson]" />
       <Stats :voies="[geojson]" :precision="1" />
       <StatsQuality v-if="displayQuality()" :voies="[geojson]" :precision="1" />
@@ -29,39 +26,6 @@
         />
       </ClientOnly>
 
-      <div class="mt-2 flex justify-between gap-4">
-        <button
-          type="button"
-          title="Afficher les compteurs vélos"
-          class="flex items-center gap-2 text-base font-semibold text-gray-500 hover:text-lvv-blue-600 no-underline"
-          @click="displayBikeCounters = !displayBikeCounters"
-        >
-          <span> Compteurs vélos </span>
-          <Icon :name="displayBikeCounters ? 'mdi:eye' : 'mdi:eye-off'" class="h-5 w-5" aria-hidden="true" />
-        </button>
-
-        <div class="flex items-center gap-4">
-          <button
-            type="button"
-            title="Télécharger le tracé au format GPX"
-            class="flex items-center gap-2 text-base font-semibold text-gray-500 hover:text-lvv-blue-600 no-underline"
-            @click="downloadGpx"
-          >
-            <span>GPX</span>
-            <Icon name="mdi:download" class="h-5 w-5" aria-hidden="true" />
-          </button>
-          <a
-            :href="linkToGeoJSON"
-            target="_blank"
-            title="Voir le fichier GEOJSON sur GitHub"
-            class="flex items-center gap-2 text-base font-semibold text-gray-500 hover:text-lvv-blue-600 no-underline"
-            rel="noopener noreferrer"
-          >
-            <span>GEOJSON</span>
-            <Icon name="mdi:open-in-new" class="h-5 w-5" aria-hidden="true" />
-          </a>
-        </div>
-      </div>
     </section>
   </div>
 </template>

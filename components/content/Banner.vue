@@ -39,7 +39,7 @@ const banners: Banner = {
     },
   },
   postponed: {
-    title: 'Reporté',
+    title: 'A traiter',
     icon: 'ic:baseline-more-time',
     color: {
       banner: 'border-[#DB3E79] bg-[#FDF2F8]',

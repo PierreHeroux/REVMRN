@@ -4,17 +4,19 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+            <span class="sr-only">REVMRN</span>
             <img
               class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              src="https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png"
               :alt="`logo ${getAssoName()}`"
             />
+            <!--
             <img
               class="h-8 w-auto sm:h-10"
               src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
               alt="logo cyclopolis"
             />
+            -->
           </NuxtLink>
         </div>
         <div class="-mr-2 -my-2 md:hidden">
@@ -61,6 +63,7 @@
                     >
                       Carte interactive
                     </NuxtLink>
+                    <!--
                     <NuxtLink
                       to="/evolution"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -68,6 +71,7 @@
                     >
                       Évolution du réseau
                     </NuxtLink>
+                    -->
                     <NuxtLink
                       to="/plan-officiel"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -81,7 +85,7 @@
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Métropole Rouen Normandie</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
@@ -183,6 +187,7 @@
                     >
                       Compteurs vélo
                     </NuxtLink>
+                    <!--
                     <NuxtLink
                       to="/compteurs/voiture"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -190,6 +195,7 @@
                     >
                       Compteurs voiture
                     </NuxtLink>
+                    
                     <NuxtLink
                       to="/compteurs/comparaison"
                       class="text-base font-medium text-gray-500 hover:text-lvv-blue-600"
@@ -197,6 +203,7 @@
                     >
                       Comparaison voiture/vélo
                     </NuxtLink>
+                    -->
                   </div>
                 </div>
               </PopoverPanel>
@@ -237,7 +244,7 @@
               <NuxtLink to="/" @click="close()">
                 <img
                   class="h-8 w-auto"
-                  src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+                  src="https://sabinerouenvelo.org/wp-content/uploads/2023/02/logo_noir_texte.png"
                   :alt="`logo ${getAssoName()}`"
                 />
               </NuxtLink>
@@ -284,6 +291,7 @@
                 >
                   <span class="ml-3 text-base font-medium text-gray-900"> Compteurs vélo </span>
                 </NuxtLink>
+                <!--
                 <NuxtLink
                   to="/compteurs/voiture"
                   class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
@@ -298,7 +306,7 @@
                 >
                   <span class="ml-3 text-base font-medium text-gray-900"> Comparaison voiture/vélo </span>
                 </NuxtLink>
-
+                -->
                 <!-- Autres -->
                 <hr class="h-px bg-gray-200 border-0" />
 
@@ -341,7 +349,7 @@ const { getLineColor } = useColors();
 const { getVoieCyclablePath } = useUrl();
 const { getAssoName } = useConfig();
 
-const barometreVeloLink = 'https://www.barometre-velo.fr/2025/carte/#11.1/45.7505/4.8316';
+const barometreVeloLink = 'https://www.barometre-velo.fr/2025/palmares/#10.4/49.4068/1.0532';
 
 const isLargeScreen = useMediaQuery('(min-width: 1024px)');
 const linkToMap = computed(() => {
@@ -351,7 +359,6 @@ const linkToMap = computed(() => {
 const navItems = computed(() => [
   { name: 'Carte interactive', path: linkToMap.value, target: '_self' },
   { name: 'Plan officiel', path: '/plan-officiel', target: '_self' },
-  { name: 'Évolution du réseau', path: '/evolution', target: '_self' },
   { name: 'Baromètre FUB Lyon', path: barometreVeloLink, target: '_blank' },
 ]);
 

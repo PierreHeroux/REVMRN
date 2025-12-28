@@ -35,7 +35,7 @@
                 >Plateforme de suivi</span
               >
               <span class="mt-1 block text-4xl tracking-tight font-extrabold sm:text-5xl xl:text-6xl">
-                <span class="block text-gray-900">Avancement des</span>
+                <span class="block text-gray-900">Avancement du</span>
                 <span class="block text-lvv-blue-600">{{ getRevName() }}</span>
               </span>
             </h1>
@@ -44,7 +44,10 @@
               <a :href="getAssoLink()"
                 ><strong>{{ assoName }}</strong></a
               >
-              pour suivre le développement du nouveau réseau vélo sécurisé Lyonnais.
+              pour suivre le développement du Réseau Express Vélo de la Métropole Rouen Normandie reposant sur la plateforme <a href="https://cyclopolis.fr" target="_blank">Cyclopolis</a>.
+            </p>
+            <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
+              <strong>Ce site est actuellement dans une version document de travail.</strong>
             </p>
             <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
               <div class="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
@@ -77,7 +80,7 @@
           >
             <div class="relative mx-auto w-full rounded-lg shadow-lg lg:max-w-md">
               <div class="relative block w-full bg-white rounded-lg overflow-hidden">
-                <img class="w-full" src="~/assets/hero.jpeg" :alt="`illustration des ${getRevName()}`" />
+                <img class="w-full" src="~/assets/hero.jpeg" :alt="`illustration du ${getRevName()}`" />
               </div>
             </div>
           </div>

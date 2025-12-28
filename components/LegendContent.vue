@@ -21,7 +21,7 @@
         </div>
       </div>
     </div>
-    <div class="my-auto">prévu pour 2026</div>
+    <div class="my-auto">prévu</div>
 
     <div :class="['my-auto rounded-md border-gray-500 border relative', borderClass]">
       <div :class="['bg-white', lineHeightClass]" />
@@ -30,7 +30,7 @@
         <span v-else>x x x x x</span>
       </div>
     </div>
-    <div class="my-auto">reporté après 2026</div>
+    <div class="my-auto">à traiter</div>
   </div>
 </template>
 
