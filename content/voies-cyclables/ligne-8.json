@@ -8,7 +8,7 @@
         "name": "rue Saint-Marguerite",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -64,7 +64,7 @@
         "name": "route du Mesnil-Esnard",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -116,7 +116,7 @@
         "name": "côte de Waddington",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -220,7 +220,7 @@
         "name": "route de Darnétal ouest",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "name": "route de Darnétal rond-point",
         "status": "wip",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -316,7 +316,7 @@
         "name": "route de Darnétal est",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -356,7 +356,7 @@
         "name": "D138 Nord",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -420,7 +420,7 @@
         "name": "D138 sud",
         "status": "wip",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -460,7 +460,7 @@
         "name": "rue de Paris Bonsecours - FSP",
         "status": "postponed",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -516,7 +516,7 @@
         "name": "route de Paris FSP 1",
         "status": "wip",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -564,7 +564,7 @@
         "name": "route de Paris FSP 2",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -608,7 +608,7 @@
         "name": "FSP - Boos",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-boos-franqueville-saint-pierre",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -636,7 +636,7 @@
         "name": "rue de Paris Boos 1",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#boos",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -660,7 +660,7 @@
         "name": "rue de Paris Boos 2",
         "status": "wip",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#boos",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -692,7 +692,7 @@
         "name": "rue des Andelys",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#boos",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -732,7 +732,7 @@
         "name": "D138",
         "status": "planned",
         "type": "aucun",
-        "link": "/revmrn-8",
+        "link": "/revmrn-8#liaison-neuville-chant-doisel-boos",
         "quality": "unsatisfactory"
       },
       "geometry": {

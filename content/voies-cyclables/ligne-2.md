@@ -17,7 +17,7 @@ Il est prévu que l'itinéraire :line-link{line=1} emprunte l'axe formé par la 
 Alors même que le cours Carnot a connu en 2025 une rénovation, aucun projet d'aménagement du Réseau Express Vélo sur cet axe n'a été porté à la connaissance de Sabine.
 ::
 
-### Rue Jean Jaures
+### Rue Jean Jaurès
 Le tracé de l'itinéraire se poursuit ensuite vers le nord en empruntant la rue Jean Jaurès. Il n'existe actuellement aucun aménagement cyclable conforme aux exigences du Réseau Express Vélo.
 
 ::banner{type="postponed"}
