@@ -8,7 +8,7 @@
         "name": "Boulevard Jean de Béthencourt",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-de-france-boulevard-jean-de-béthencourt",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -88,7 +88,7 @@
         "name": "Quai Cavelier de la Salle",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-cavelier-de-la-salle-quai-jean-moulin",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -144,7 +144,7 @@
         "name": "Quai Jean Moulin",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-cavelier-de-la-salle-quai-jean-moulin",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -208,7 +208,7 @@
         "name": "Quai Jacques Anquetil",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-jacques-anquetil-avenue-grand-cours",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -272,7 +272,7 @@
         "name": "Tête sud Pont Mathilde",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-jacques-anquetil-avenue-grand-cours",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -377,10 +377,10 @@
       "type": "Feature",
       "properties": {
         "line": 6,
-        "name": "Avenue de Grand Cours",
+        "name": "Avenue Grand Cours",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#quai-jacques-anquetil-avenue-grand-cours",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -424,7 +424,7 @@
         "name": "Chemin de Halage",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#chemin-de-halage",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -708,7 +708,7 @@
         "name": "Rue Michel Poulmach",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#rue-michel-poulmach",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -780,7 +780,7 @@
         "name": "Boulevard Lénine",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#boulevard-lénine",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -888,7 +888,7 @@
         "name": "Boulevard Dambourney",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#boulevard-dambourney",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -928,7 +928,7 @@
         "name": "Chemin du Pont de la Chapelle",
         "status": "wip",
         "type": "aucun",
-        "link": "/revmrn-6",
+        "link": "/revmrn-6#chemin-du-pont-de-la-chapelle",
         "quality": "unsatisfactory"
       },
       "geometry": {

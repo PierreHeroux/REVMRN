@@ -465,7 +465,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
         'symbol-placement': 'line',
         'symbol-spacing': 120,
         'text-font': ['Open Sans Regular'],
-        'text-field': ['coalesce', ['get', 'text'], 'variante reportée'],
+        'text-field': ['coalesce', ['get', 'text'], 'variante à traiter'],
         'text-size': 14,
       },
     });
@@ -524,7 +524,7 @@ export const useMap = ({ updateUrlOnFeatureClick }: { updateUrlOnFeatureClick?: 
           'symbol-placement': 'line',
           'symbol-spacing': 150,
           'text-font': ['Open Sans Regular'],
-          'text-field': 'reporté',
+          'text-field': 'à traiter',
           'text-size': 14,
         },
       });

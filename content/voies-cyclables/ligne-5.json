@@ -8,7 +8,7 @@
         "name": "Avenue du Bic Aubert - Avenue du Val l'Abbé",
         "status": "done",
         "type": "bilaterale",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#avenue-du-bic-aubert",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -52,7 +52,7 @@
         "name": "Rue des Coquelicots",
         "status": "wip",
         "type": "bilaterale",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#rue-des-coquelicots",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -76,7 +76,7 @@
         "name": "Rue de Paris Sud",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#rue-pierre-corneille-rue-de-paris",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -128,7 +128,7 @@
         "name": "Rue Pierre Corneille Nord",
         "status": "planned",
         "type": "bandes-cyclables",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#rue-pierre-corneille-rue-de-paris",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -168,7 +168,7 @@
         "name": "Rue Pierre Corneille Sud",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#rue-pierre-corneille-rue-de-paris",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -224,7 +224,7 @@
         "name": "rue de Sotteville",
         "status": "postponed",
         "type": "aucun",
-        "link": "/revmrn-5",
+        "link": "/revmrn-5#rue-de-sotteville",
         "quality": "unsatisfactory"
       },
       "geometry": {

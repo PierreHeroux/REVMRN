@@ -37,7 +37,7 @@ L'itinéraire se poursuit vers l'ouest via l'avenue Jean Jaurès au Petit-Quevil
 
 Sur l'avenue des Alliés, il existe actuellement un aménagement cyclable implanté par le biais de bandes cyclables sur le tracé de l'itinéraire. Ce tronçon est concerné par un projet visant à créer une piste cyclable bidirectionnelle en rive nord de l'avenue.
 
-### Avenue Gay Lussac
+### Avenue Gay-Lussac
 
 Le tracé proposé par la Métropole fait basculer l'itinéraire :line-link{line=3} à l'ouest de la sud 3 au niveau du rond-point des Alliés de sorte qu'il suive la rue Gay Lussac au Grand-Quevilly jusqu'à la rue Pierre Brossolette. Il n'existe actuellement aucun aménagement cyclable sur ce tronçon. Un projet en cours ambitionne la création d'une piste bidirectionnelle positionnée en rive ouest de la rue Gay Lussac.
 

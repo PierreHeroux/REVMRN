@@ -8,7 +8,7 @@
         "line": 4,
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -48,7 +48,7 @@
         "line": 4,
         "status": "postponed",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -84,7 +84,7 @@
         "name": "Rue John Fitzgerald Kennedy",
         "status": "postponed",
         "type": "aucun",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -112,7 +112,7 @@
         "name": "Rue de Beccles",
         "status": "postponed",
         "type": "aucun",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -136,7 +136,7 @@
         "name": "Rue du Madrillet Ouest",
         "status": "postponed",
         "type": "aucun",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -196,7 +196,7 @@
         "name": "Rue du Madrillet Est",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "name": "Avenue Marcel Cavelier",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -312,7 +312,7 @@
         "name": "Avenue de l'Université Ouest",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -356,7 +356,7 @@
         "name": "Avenue de l'Université Est",
         "status": "postponed",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -384,7 +384,7 @@
         "name": "Avenue Galilée",
         "status": "postponed",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -412,7 +412,7 @@
         "name": "Avenue Isaac Newton",
         "status": "postponed",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -456,7 +456,7 @@
         "name": "Rue Julian Grimau",
         "status": "postponed",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -500,7 +500,7 @@
         "name": "Rue des Coquelicots",
         "status": "done",
         "type": "bilaterale",
-        "link": "/revmrn-4",
+        "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
         "quality": "satisfactory"
       },
       "geometry": {
