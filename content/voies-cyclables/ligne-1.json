@@ -8,7 +8,7 @@
         "name": "Boulevard des Belges Sud",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevards-de-la-rive-droite",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -36,7 +36,7 @@
         "name": "Boulevard des Belges Nord",
         "status": "done",
         "type": "voie-bus",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevards-de-la-rive-droite",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -72,7 +72,7 @@
         "name": "Boulevard de la Marne",
         "status": "done",
         "type": "voie-bus",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevards-de-la-rive-droite",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -104,7 +104,7 @@
         "name": "Boulevard de l'Yser",
         "status": "done",
         "type": "voie-bus",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevards-de-la-rive-droite",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -136,7 +136,7 @@
         "name": "Boulevard de Verdun",
         "status": "done",
         "type": "voie-bus",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevards-de-la-rive-droite",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -172,7 +172,7 @@
         "name": "CHU - Saint-Hilaire",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#traversée-du-chu-charles-nicolle",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -208,7 +208,7 @@
         "name": "CHU Charles Nicolle",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#traversée-du-chu-charles-nicolle",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -232,7 +232,7 @@
         "name": "Boulevard Gambetta ouest",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevard-gambetta",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -276,7 +276,7 @@
         "name": "Carrefour Gambetta-Martainville",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevard-gambetta",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -308,7 +308,7 @@
         "name": "Boulevard Gambetta est",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevard-gambetta",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -340,7 +340,7 @@
         "name": "Quai de Paris",
         "status": "postponed",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#quai-de-paris",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -376,7 +376,7 @@
         "name": "Pont Corneille",
         "status": "wip",
         "type": "bilaterale",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#pont-corneille",
         "quality": "unsatisfactory"
       },
       "geometry": {
@@ -404,7 +404,7 @@
         "name": "Quai Jacques Anquetil",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#quai-jacques-anquetil",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -440,7 +440,7 @@
         "name": "Pont de l'Europe",
         "status": "done",
         "type": "voie-verte",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#pont-de-leuroupe",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -516,7 +516,7 @@
         "name": "Boulevard de l'Europe Est",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevard-de-leurope",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -584,7 +584,7 @@
         "name": "Boulevard de l'Europe Ouest",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#boulevard-de-leurope",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -684,7 +684,7 @@
         "name": "Avenue Jean Rondeaux",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#avenue-jean-rondeaux",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -740,7 +740,7 @@
         "name": "Pont Guillaume-le-Conquérant",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-1",
+        "link": "/revmrn-1#pont-guillaume-le-conquérant",
         "quality": "satisfactory"
       },
       "geometry": {

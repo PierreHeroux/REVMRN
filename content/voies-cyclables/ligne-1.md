@@ -51,7 +51,7 @@ panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=308b66d7-f1cb-4a19-b30e-
 --- 
 ::
 
-### Quais de Paris
+### Quai de Paris
 
 Sur le tronçon de l'itinéraire correspondant au quai de Paris, l'itinéraire :line-link{line=1} est partagé avec l'itinéraire :line-link{line=9}. Il est implanté sous la forme d'une piste bidirectionnelle sur trottoir. La démarquation entre la piste cyclable et le cheminement piéton est insuffisante (pas de différence altimétrique, même colori). Le flux piéton est important. De ce fait, de nombreux piétons évoluent sur la piste cyclable. L'implantation est génératrice de conflit d'usage ce qui empèche les cyclistes d'évoluer aussi rapidement qu'on pourrait le souhaiter sur un itinéraire du Réseau Express Vélo. Pour cette raison, le tronçon est indiqué comme non satisfaisant.
 

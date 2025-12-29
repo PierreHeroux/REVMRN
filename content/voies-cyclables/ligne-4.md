@@ -72,4 +72,22 @@ streetView: @49.387858,1.0623455,3a,75y,129.79h,84.77t
 ---
 ::
 
+::content-image
+---
+panoramax: seq=0e96a6dc-765a-411f-8251-0b34f7af3f6d;pic=33a51346-44bd-4e7e-a7fd-32748dc0edf2;open=true
+--- 
+::
+
 On retrouve ensuite le même type d'implantation de l'aménagement cyclable sur la rue Julian Grimau et sur la partie de la rue des Coquelicots située à l'ouest de l'avenue du Bic Aubert. Cette intersection constitue l'extrémité de l'itinéraire :line-link{line=4}. A cet endroit, il se connecte avec l'itinéraire :line-link{line=5}.
+
+::content-image
+---
+panoramax: seq=f71f5b19-d393-4b2d-8cc9-2eb6489d503a;pic=96a2dcb5-c88b-45ef-b047-49762d7e5ec2;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=356c1a99-ab80-4bfb-93f8-245fd668d1cf;pic=cb4f8a0b-207d-4dd5-841f-b59124f30bc0;open=true
+--- 
+::
