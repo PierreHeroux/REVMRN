@@ -22,9 +22,27 @@ L'itinéraire se poursuit dans le bourg de Boos tout d'abord sur la route des An
 
 Sur la RD 6014 dans le bourg de Boos, à partir de l'intersection avec la rue de la Chesnaie et en direction de l'ouest, et jusqu'à la sortie du bourg, l'aménagement prend la forme d'une piste bidirectionnelle implantée sur la rive sud de la chaussée.
 
+::content-image
+---
+panoramax: seq=d2e23fef-4677-4e16-a9c0-c325b511f351;pic=d8022ef5-91ed-4d52-9922-818df619fd1e;open=true
+--- 
+::
+
 ### Liaison Boos - Franqueville-Saint-Pierre
 
 Entre les bourgs de Boos et de Franqueville-Saint-Pierre, sur un tronçon d'environ 1km, l'itinéraire suit la route de Paris (RD 6014). L'aménagement est, sur ce tronçon, aménagé sous la forme d'une voie verte.
+
+::content-image
+---
+panoramax: seq=d2e23fef-4677-4e16-a9c0-c325b511f351;pic=ec6aa9f0-be1f-4187-9f38-c3b500ac399c;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=d2e23fef-4677-4e16-a9c0-c325b511f351;pic=3f37d2ad-ef61-4c94-b706-031d345f219c;open=true
+--- 
+::
 
 ### Franqueville-Saint-Pierre -- Mesnil-Esnard -- Bonsecours
 

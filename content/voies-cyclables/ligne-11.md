@@ -48,6 +48,11 @@ streetView: 49.4610782,0.8337775,3a,75y,240.19h,75.17t
 ---
 ::
 
+::content-image
+---
+panoramax: seq=23883b2a-eb7d-4e85-9210-95ff15f2ce35;pic=4c89f147-30f5-4487-bbfe-5c055c4388c4;open=true
+--- 
+::
 
 ::banner{type="info"}
 L'aménagement se poursuit en dehors du territoire de la Métropole au nord dans la vallée de l'Austreberthe vers Villers-Ecalles et Barentin et à l'ouest vers Rives-en-Seine.

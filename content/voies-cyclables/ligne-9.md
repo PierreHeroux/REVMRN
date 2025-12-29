@@ -28,9 +28,39 @@ L'itinéraire :line-link{line=9} se connecte ici avec l'itinéraire :line-link{l
 
 L'aménagement prend ensuite la forme d'une piste bidirectionnelle placée en rive sud sur tout le linéaire du boulevard Bicheray. Dans la continuité, après les barières du Havre, l'itinéraire se poursuit quelques dizaines de mètres sur la rue Nansen. L'itinéraire traverse ensuite la rue Nansen pour passer sous les accès nord du pont Flaubert et rejoindre la zone du pôle d'échange du Mont-Riboudet, et ce, toujours sous la forme d'une piste bidirectionnelle.
 
+::content-image
+---
+panoramax: seq=0a159a11-4282-4852-8568-0e89071dc9bd;pic=bd8e4686-a26d-44aa-bc5d-134f9d150909;open=true
+--- 
+::
+
 ### Mont-Riboudet - Quai Gaston Boulet
 
 Après avoir traversé la route départementale RD 6015, l'itinéraire se poursuit en longeant l'avenue du Mont-Riboudet, puis le quai Gaston Boulet jusqu'à l'intersection avec le boulevard des Belges toujours sous la forme d'une piste bidirectionnelle.
+
+::content-image
+---
+panoramax: seq=cc1a9530-ffe2-4bc9-a5f2-cc764878ceaf;pic=9a2613df-e59f-4538-9dae-e95970e8cc97;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=cc1a9530-ffe2-4bc9-a5f2-cc764878ceaf;pic=08121f8d-6a30-46b0-8cf9-1479747a3d7e;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=cc1a9530-ffe2-4bc9-a5f2-cc764878ceaf;pic=38685bdc-8b1e-4619-8bcc-76e58f34b574;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=cc1a9530-ffe2-4bc9-a5f2-cc764878ceaf;pic=7ab3190d-ed43-4e95-8bbc-9e83b1e60ecc;open=true
+--- 
+::
 
 ### Quais hauts rive droite
 
@@ -42,13 +72,68 @@ L'itinéraire offre une interconnexion avec l'itinéraire :line-link{line=3} au 
 
 Le tronçon correspondant au quai de Paris est partagé avec l'itinéraire :line-link{line=1}.
 
+::content-image
+---
+panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=2a48bbe9-29cd-4ac7-bcec-a70e1810d14b;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=a1dc080f-afad-4017-a5f8-ee27ff2d308c;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=1db00dd5-128f-4a72-8cef-48959f548fda;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=1ef6da98-ddae-49f4-b0e2-e30225fb68ff;pic=cab14506-5195-4338-a35f-2004e67eca7e;open=true
+--- 
+::
+
+
 ### Boulevard Gambetta
 
 L'itinéraire emprunte ensuite le boulevard Gambetta jusqu'à l'intersection avec la rue d'Amiens. Ce tronçon, partagé avec l'itinéraire :line-link{line=1} est implanté sous la forme d'une piste bidirectionnelle qui se trouve tout d'abord en rive est, puis bascule en rive ouest au niveau du champ de Mars. Le tronçon situé au niveau du carrefour avec la rue Martainville est jugé non satisfaisant considérant la sinuosité et les rayons de courbure incompatibles avec un itinéraire de type réseau express.
 
+::content-image
+---
+panoramax: seq=a96f5dbf-706a-4b69-abbf-df9e074ab53c;pic=6cbc8fef-51a2-4921-bcf3-d31e3d76f723;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=6a31a42b-92a6-476b-9846-086f11fc79ac;pic=04253fe8-9395-4ef6-90ed-b3af6a2b0b18;open=true
+--- 
+::
+
 ### ZAC Rouen Innovation Santé
 
 A l'intersection entre le boulevard Gambetta et la rue d'Amiens, l'itinéraire opère une nouvelle bascule sur le côté est du boulevard pour traverser la ZAC Rouen Innovation Santé en empruntant tout d'abord la partie ouest de la route de Lyons-la-Forêt, puis la rue Marie Curie jusqu'à retrouver la route de Lyons-la-Forêt. Sur ce tronçon, l'itinéraire est implanté par le biais d'une piste bilatérale.
+
+::content-image
+---
+panoramax: seq=15eb6413-b9c3-4616-a0ae-1689b45e5809;pic=d50bd28b-f4ed-4087-82cc-b476f6f4a2a5;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=40932dac-3a72-4f0b-b2b3-b1b8bf52543b;pic=b2dea9a1-fc58-49e3-bf14-a80aaf0ab316;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=40932dac-3a72-4f0b-b2b3-b1b8bf52543b;pic=7624c209-8fbf-4ab4-ac04-a2d8ec4ae522;open=true
+--- 
+::
 
 ### Route de Lyons-la-Forêt
 

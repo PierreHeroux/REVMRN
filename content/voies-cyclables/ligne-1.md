@@ -20,6 +20,19 @@ Il n'existe pas d'aménagement cyclable en site propre. Les connexions avec le c
 
 Pour cette raison, cette portion de l'itinéraire est indiqué comme non satisfaisant.
 
+::content-image
+---
+panoramax: seq=4c8baf9f-04f5-4cf4-9b37-a2f77179ab53;pic=7dc1c7bc-1525-4133-87f4-b422c753df1d;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=2dbb2347-3540-4698-8ccd-d99293accf48;open=true
+--- 
+::
+
+
 ### Traversée du CHU Charles Nicolle
 
 Entre la place Saint-Hilaire et le boulevard Gambetta, l'itinéraire :line-link{line=1} est implanté par le biais d'une voie partagée avec les piétons, voie dont le statut n'est pas bien défini au sein de l'enceinte du CHU Charles Nicolle. 
@@ -32,9 +45,21 @@ Pour cette raison, cette portion de l'itinéraire est indiqué comme non satisfa
 
 Sur le boulevard Gambetta, l'itinéraire :line-link{line=1} est implanté par le biais d'une piste cyclable bidirectionnelle. La section au nord de la rue Martainville a été refaite en 2024 aux normes du plan vélo. La partie au sud de la rue Martainville était existante. Le tronçon situé au niveau du carrefour avec la rue Martainville est jugé non satisfaisant considérant la sinuosité et les rayons de courbure incompatibles avec un itinéraire de type réseau express.
 
+::content-image
+---
+panoramax: seq=99863cbb-0b05-499b-93bb-e756cbff6b7b;pic=308b66d7-f1cb-4a19-b30e-8aad29c641be;open=true
+--- 
+::
+
 ### Quais de Paris
 
 Sur le tronçon de l'itinéraire correspondant au quai de Paris, l'itinéraire :line-link{line=1} est partagé avec l'itinéraire :line-link{line=9}. Il est implanté sous la forme d'une piste bidirectionnelle sur trottoir. La démarquation entre la piste cyclable et le cheminement piéton est insuffisante (pas de différence altimétrique, même colori). Le flux piéton est important. De ce fait, de nombreux piétons évoluent sur la piste cyclable. L'implantation est génératrice de conflit d'usage ce qui empèche les cyclistes d'évoluer aussi rapidement qu'on pourrait le souhaiter sur un itinéraire du Réseau Express Vélo. Pour cette raison, le tronçon est indiqué comme non satisfaisant.
+
+::content-image
+---
+panoramax: seq=1ef6da98-ddae-49f4-b0e2-e30225fb68ff;pic=fc049366-4972-4beb-ad46-e13885304fde;open=true
+--- 
+::
 
 ### Pont Corneille
 
@@ -46,9 +71,21 @@ Le pont Corneille est actuellement en travaux. Les cyclistes empreintent la voie
 
 Sur le tronçon de l'itinéraire correspondant au quai Jacques Anquetil, l'itinéraire :line-link{line=1} est partagé avec l'itinéraire :line-link{line=6}. Il est implanté ici sous la forme d'une voie verte.
 
+::content-image
+---
+panoramax: seq=f7713e10-99ea-42e0-9cb8-5b607389bd22;pic=10bcf887-a0fc-4b7a-a630-1de2305124da;open=true
+--- 
+::
+
 ### Pont de l'Europe
 
 Sur le pont de l'Europe, l'itinéraire :line-link{line=1} est implanté par le biais d'une voie verte. Cet aménagement a été réalisé en 2023.
+
+::content-image
+---
+panoramax: seq=5876c949-0525-4879-856b-9f2528cdc375;pic=81032045-5e54-4573-82a5-6be83d7d3c4c;open=true
+--- 
+::
 
 ### Boulevard de l'Europe
 
@@ -56,7 +93,19 @@ Sur le boulevard de l'Europe, l'itinéraire :line-link{line=1} est implanté sou
 
 ::content-image
 ---
-panoramax: seq=15bdbc3e-8992-45d9-8444-d3cd76b8e9f5;pic=089887ec-b4d3-4015-8b48-2edfacc17245;open=true
+panoramax: seq=5876c949-0525-4879-856b-9f2528cdc375;pic=943e8ca3-5018-4319-8788-45452f21a4d8;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=114a7156-8f10-4285-a90a-0b9bdb484c49;pic=861dbcb6-26f6-4b76-8573-84c2d60481ab;open=true
+--- 
+::
+
+::content-image
+---
+panoramax: seq=15bdbc3e-8992-45d9-8444-d3cd76b8e9f5;pic=0e9134ab-5bbc-4a02-8237-baa9c28c5287;open=true
 --- 
 ::
 
@@ -66,7 +115,7 @@ Sur l'avenue Jean Rondeaux, l'itinéraire :line-link{line=1} est implanté sous 
 
 ::content-image
 ---
-panoramax: seq=15bdbc3e-8992-45d9-8444-d3cd76b8e9f5;pic=0e9134ab-5bbc-4a02-8237-baa9c28c5287;open=true
+panoramax: seq=15bdbc3e-8992-45d9-8444-d3cd76b8e9f5;pic=089887ec-b4d3-4015-8b48-2edfacc17245;open=true
 --- 
 ::
 
