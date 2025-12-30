@@ -1137,11 +1137,11 @@
     {
       "type": "Feature",
       "properties": {
-        "link": "/revmrn-3",
+        "link": "/revmrn-3#traversée-de-grand-couronne",
         "name": "Boulevard du Grand Aulnay",
         "line": 3,
         "status": "done",
-        "type": "voie-verte#traversée-de-grand-couronne",
+        "type": "voie-verte",
         "quality": "satisfactory"
       },
       "geometry": {
