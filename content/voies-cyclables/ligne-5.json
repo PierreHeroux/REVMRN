@@ -50,7 +50,7 @@
       "properties": {
         "line": 5,
         "name": "Rue des Coquelicots",
-        "status": "wip",
+        "status": "done",
         "type": "bilaterale",
         "link": "/revmrn-5#rue-des-coquelicots",
         "quality": "unsatisfactory"

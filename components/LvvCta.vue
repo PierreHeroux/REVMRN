@@ -13,7 +13,7 @@
         <div class="flex items-center justify-end mt-12 lg:mt-0 lg:ml-8 gap-2">
           <div class="flex flex-1 sm:flex-row lg:flex-col gap-2 items-center">
             <a
-              href="https://www.helloasso.com/associations/sabine-agglo-rouen/adhesions/adhesion-sabine-rouen-velo-2025"
+              href="https://www.helloasso.com/associations/sabine-agglo-rouen/adhesions/adhesion-sabine-rouen-velo-2026"
               target="_blank"
               class="mt-3 flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-lvv-pink transition duration-300 transform hover:scale-105 sm:mt-0 sm:ml-3 w-24 sm:flex-shrink-0 max-h-12"
             >
