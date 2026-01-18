@@ -30,6 +30,23 @@ L'itinéraire suit sur un linéaire de 2,2km l'avenue du Bois des Dames entre No
 
 Après avoir traversé la rue du Tronquet, l'itinéraire se prolonge toujours en suivant la voie rapide jusqu'à la zone d'activités de la Vatine à Mont-Saint-Aignan. Après une courte section en voie verte entre la rue du Tronquet et la passerelle donnant accès au parc de loisirs de Mont-Saint-Aignan, l'itinéraire est implanté sous la forme d'une piste bidirectionnelle, toujours située sur la côté sud de la voie rapide.
 
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_144912.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames 
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_145009.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames 
+credit: Pierre Héroux 
+---
+::
+
+
 ### Zone d'Activités de la Vatine
 
 L'itinéraire vient ensuite dans la zone d'activités de la Vatine à Mont-Saint-Aignan où il longe tout d'abord la rue Guglielmo Marconi, traverse la route d'Houppeville et suit ensuite la rue Jacques Monod.
@@ -40,11 +57,37 @@ La traversée de la route d'Houppeville est jugée insatisfaisante pour les rais
 
 La section de la rue Jacques Monod située entre la route d'Houppeville et l'intersection avec la rue Alfred Kestler est insatifasante dans le sens où sa largeur est inférieure aux recommandations concernant les pistes bidirectionnelles, a fortiori pour ce qui concerne les itinéraires express. La largeur réellement exploitable est de plus réduite par la présence récurrente de balises au milieu de l'aménagement.
 
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_145550.jpg
+caption: Aperçu de l'itinéraire 10 sur la rue Jacques Monod à Mont-Saint-Aignan 
+credit: Pierre Héroux 
+---
+::
+
+
 ### Bois-Guillaume
 
 L'itinéraire traverse ensuite la commune de Bois-Guillaume d'ouest en est sur l'axe formé par l'avenue de l'Europe, la rue de la République et la route de Darnétal.
 
 Après une courte section en voie verte entre la rue Jacques Monod et l'avenue de l'Europe, l'itinéraire se poursuit sous la forme d'une piste bidirectionnelle implantée en rive sud de l'avenue de l'Europe sur jusqu'au carrefour de la Vielle.
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_145650.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue de l'Europe à Bois-Guillaume 
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_145902.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue de l'Europe à Bois-Guillaume 
+credit: Pierre Héroux 
+streetView: @49.4753364,1.1069455,3a,75y,148.45h,79.43t
+---
+::
 
 A ce niveau, l'aménagement bascule sur la rive opposée et suit la rue de la République sous la forme d'une piste bidirectionnelle jusqu'à l'intersection avec la rue de la Mare des Champs. Ce tronçon est jugé non satisfaisant aux critères exigés pour un réseau express vélo. D'une part, le changement de côté impose une voire deux phases de feux rouge au cycliste. Ensuite, la largeur de l'aménagement est réduite par le fait qu'il se situe au contact des clôtures des propriétés et la présence de potelets. Enfin, le régime de priorité est défavorable aux cyclistes avec des priorités données aux sorties de propriétés privées avec des dénivellations à chacune d'entre elles, ce qui est incompatible avec les critères exigés pour un itinéraire express. 
 
@@ -52,11 +95,54 @@ Au niveau de l'intersection avec la rue de la Mare des Champs et jusqu'à l'inte
 
 Sur l'extrémité est de la rue de la République, entre la rue de la Haie et la route de Neufchatel, l'itinéraire est intégré à une zone de rencontre, un type d'aménagement non reconnu comme satisfaisant les critères d'un itinéraire express vélo.
 
-Sur la route de Darnétal à Bois-Guillaume, entre la route de Neufchatel et le giratoire de la Lombardie, l'itinéraire est implanté par le biais d'une piste bilatérale. Si ce tronçon a été catégorisé comme satisfaisant, on notera tout de même que le régime accordant la priorité aux véhicules sortant ou accédant aux propriétés privées par le biais d'entrées charretières sur la piste cyclable contrevient à ce qui est attendu d'un itinéraire express vélo.
+Sur la route de Darnétal à Bois-Guillaume, entre la route de Neufchatel et le giratoire de la Lombardie, l'itinéraire est implanté par le biais d'une piste bilatérale. Si ce tronçon a été catégorisé comme satisfaisant, on notera tout de même que le régime accordant la priorité aux véhicules sortant ou accédant aux propriétés privées par le biais d'entrées charretières sur la piste cyclable contrevient à ce qui est attendu d'un itinéraire express vélo. La largeur de l'aménagement est également insuffisante entre la route de Neufchatel et la rue Herbeuse.
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_150415.jpg
+caption: Aperçu de l'itinéraire 10 sur route de Darnétal à Bois-Guillaume 
+credit: Pierre Héroux 
+streetView: @49.4696821,1.120769,3a,75y,105.99h,79.03t
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_150634.jpg
+caption: Aperçu de l'itinéraire 10 sur la route de Darnétal à Bois-Guillaume 
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_150730.jpg
+caption: Aperçu de l'itinéraire 10 sur la route de Darnétal à Bois-Guillaume 
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_150929.jpg
+caption: Aperçu de l'itinéraire 10 sur la route de Darnétal à Bois-Guillaume 
+credit: Pierre Héroux 
+---
+::
+
 
 ### Bihorel
 
 Au niveau du giratoire de la Lombardie, l'itinéraire reprend une implantation de type piste bidirectionnelle. Il suit la route de Darnétal, puis la rue de la Prévotière à Bihorel jusqu'à la rue du Maréchal Juin. Il emprunte ensuite la rue Alphone Daudet en direction du sud jusqu'au giratoire Guillaume Appolinaire.
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260118_150806.jpg
+caption: Aperçu de l'itinéraire 10 entre le giratoire de la Lombardie et la rue de la Prévotière à Bihorel
+credit: Pierre Héroux 
+streetView: @49.4696821,1.120769,3a,75y,105.99h,79.03t
+---
+::
 
 Sur l'ensemble de ce linéaire, seul le tronçon créé récemment entre le giratoire de la Lombardie et la rue de la Prévotière a été catégorisé comme satisfaisant, bien qu'ayant une largeur inférieure aux préconisations. 
 
