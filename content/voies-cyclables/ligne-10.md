@@ -14,21 +14,103 @@ cover:
 
 Nous décrivons l'itinéraire :line-link{line=10} dans le sens Maromme -> Rouen. L'itinéraire débute à Maromme sur la rue des Martyrs de la Résistance à l'intersection avec l'avenue du Val au Dames et la côte de la Vallette. Il suit à travers Maromme la totalité de la rue des Martyrs de la Résistance jusqu'au rond-point de la Demi-Lune avec un implantation sous la forme d'une piste bidirectionnelle implantée sur la rive nord. 
 
-La section située de ce tronçon située à l'ouest de la rue Paul Painlevé est partégée avec l'itinéraire :line-link{line=12}.
+La section de ce tronçon située à l'ouest de la rue Paul Painlevé est partégée avec l'itinéraire :line-link{line=12}.
 
 La section entre la rue Jean Effel et la traversée du cailly est jugée insatisafaisante en raison du conflit d'usage avec un flux piéton important incompatible avec un usage réseau express vélo. Ce conflit d'usage est causé sur l'esplanade du centre commercial par une démarcation insuffisante (pas de différence de couleur et pas de différence altimétrique). Au dela, l'espace dévolu aux piétons est trop restreint ce qui explique bon nombre d'entre eux, en l'absence de différence altimétrique et malgré la différence de couleur de revêtement, évoluent sur la piste cyclable.
 
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155338.jpg
+caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155426.jpg
+caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155455.jpg
+caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
+credit: Pierre Héroux 
+---
+::
+
 La section entre la rue Edouard Fort et le rond-point de la Demi-Lune est également jugée insatisfaisante. La largeur de l'aménagement est inférieure aux recommandations pour les aménagements bidirectionnels, à fortiori pour un aménagement de type réseau express vélo. La présence récurrente de potelets sur cet aménagement crée une gène supplémentaire à l'évolution des cyclistes en particulier pour ceux équipés de saccoches, remorques ou vélo cargo.
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155720.jpg
+caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155851.jpg
+caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
+credit: Pierre Héroux 
+---
+::
+
 
 ### Notre-Dame-de-Bondeville
 
 Après avoir traversé la route de Dieppe au nord du rond-point de la Demi-Lune, l'itinéraire longe à Notre-Dame-de-Bondeville la rue Charles-de-Gaulle, jusqu'à l'intersection avec la rue du Général Leclerc. L'itinéraire est implanté par le biais d'une piste bidirectionnelle tout d'abord en rive nord, puis qui bascule en rive sud au niveau de l'intersection avec la rue des Fusillés.
 
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160012.jpg
+caption: Aperçu de l'itinéraire 10 sur la rue Charles de Gaulle à Notre-Dame-de-Bondeville
+credit: Pierre Héroux 
+---
+::
+
+
 ### Avenue du Bois des Dames
 
 L'itinéraire suit sur un linéaire de 2,2km l'avenue du Bois des Dames entre Notre-Dame-de-Bondeville et le giratoire marquant l'intersection avec la rue du Tronquet à Mont-Saint-Aignan. L'itinéraire est implanté sur la forme d'une piste bidirectionnelle installée en parallèle et sur le côté sud de la voie rapide.
 
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160324.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160609.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161241.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
+credit: Pierre Héroux 
+---
+::
+
 Après avoir traversé la rue du Tronquet, l'itinéraire se prolonge toujours en suivant la voie rapide jusqu'à la zone d'activités de la Vatine à Mont-Saint-Aignan. Après une courte section en voie verte entre la rue du Tronquet et la passerelle donnant accès au parc de loisirs de Mont-Saint-Aignan, l'itinéraire est implanté sous la forme d'une piste bidirectionnelle, toujours située sur la côté sud de la voie rapide.
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161427.jpg
+caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
+credit: Pierre Héroux 
+---
+::
 
 ::content-image
 ---
@@ -65,6 +147,13 @@ credit: Pierre Héroux
 ---
 ::
 
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161929.jpg
+caption: Aperçu de l'itinéraire 10 sur la rue Georges Charpak à Mont-Sanit-Aignan
+credit: Pierre Héroux 
+---
+::
 
 ### Bois-Guillaume
 

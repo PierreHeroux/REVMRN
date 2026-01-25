@@ -14,13 +14,26 @@ Considérant que l'itinéraire :line-link{line=8}, ne constitue pas un tracé li
 
 ### Liaison Neuville-Chant-d'Oisel - Boos
 
-L'itinéraire démarre à l'est à la sortie du bourg de la Neuville-Chant-d'Oisel en direction de Boos par la route des Andelys. Il n'existe actuellement aucun aménagement cyclable sur ce tronçon. Il existe cependant un projet visant à créer une voie verte sur la partie rurale entre les bourgs de la Neuville-Chant-d'Oisel et de Boos.
+L'itinéraire démarre à l'est à la sortie du bourg de la Neuville-Chant-d'Oisel en direction de Boos par la route des Andelys. Il n'existe actuellement aucun aménagement cyclable sur ce tronçon. Cependant un projet consiste en la création d'une voie verte entre la Neuville-Chant-d'Oisel et Boos sur la rive sud de la route départementale 138.
+
+::banner{type="wip"}
+Les travaux de création de la voie verte constituant un tronçon de l'itinéraire :line-link{line=8} ont cours actuellement. Ils ont lieux sur la rue des Andelys entre Boos (Allée de la Coudrette) et la Neuville-Chant-d'Oisel (rue Neuve)
+::
 
 ### Boos
 
-L'itinéraire se poursuit dans le bourg de Boos tout d'abord sur la route des Andelys, jusqu'à rejoindre la route départementale RD 6014, puis le long de la RD 6014 en direction de l'ouest. Il n'existe actuellement aucun aménagement cyclable sur ce tronçon jusqu'à l'intersection de la rue de Rouen (RD 6014) avec rue de la Chasnaie. Il existe cependant pour cette partie non aménagée un projet de création d'une piste cyclable bidirectionnelle.
+L'itinéraire se poursuit dans le bourg de Boos tout d'abord sur la route des Andelys, jusqu'à rejoindre la route départementale RD 6014, puis le long de la RD 6014 en direction de l'ouest. Il n'existe actuellement pas d'aménagement cyclable sur la rue des Andelys dans le bourg de Boos, cependant, il existe un projet d'aménagement d'une piste cyclable sur la rue des Andelys entre l'entrée du bourd de Boos en provenance de la Neuville-Chant-d'Oisel et la RD 6014.
 
-Sur la RD 6014 dans le bourg de Boos, à partir de l'intersection avec la rue de la Chesnaie et en direction de l'ouest, et jusqu'à la sortie du bourg, l'aménagement prend la forme d'une piste bidirectionnelle implantée sur la rive sud de la chaussée.
+Sur la RD 6014 dans le bourg de Boos, à partir de la rue des Andelys et en direction de l'ouest, et jusqu'à la sortie du bourg, l'aménagement prend la forme d'une piste bidirectionnelle implantée sur la rive sud de la chaussée.
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_172508.jpg
+caption: Aperçu de l'itinéraire 8 dans la commune de Boos sur la RD 6014
+credit: Pierre Héroux 
+---
+::
+
 
 ::content-image
 ---
@@ -50,10 +63,6 @@ L'itinéraire continue ensuite tout le long de la route de Paris (RD 6014) en di
 
 Il existe actuellement une piste cyclable bidirectionnelle depuis l'entrée d'agglomération de Franqueville-Saint-Pierre à l'est et l'intersection entre la route de Paris et la rue du Maréchal Leclerc (RD 7). 
 
-::banner{type="wip"}
-Le long de la route de Paris entre la rue du Maréchal Leclerc et le giratoire qui marque l'intersection avec la route départementale RD 138, des travaux sont actuellement en cours pour prolonger la piste bidirectionnelle précédente.
-::
-
 Sur la route de Paris, au delà du giratoire marquant l'intersection avec la route départementale RD 138, il n'existe actuellement pas d'aménagement cyclable, et ce jusqu'à la fin de l'itinéraire situé à Bonsecours. 
 
 ::banner{type="info"}
@@ -64,9 +73,21 @@ Il existe cependant un projet d'aménagement de ce tronçon long de 3,5km, mais 
 
 Au niveau du giratoire marquant l'intersection entre la route de Paris (RD 6014) et la route départementale RD 138, une branche de l'itinéraire :line-link{line=8} prend la direction de Saint-Léger-du-Bourg-Denis en empruntant la RD 138. Il n'existe actuellement pas d'aménagement cyclable le long de cet itinéraire entre le giratoire de Franqueville-Saint-Pierre et la sortie d'agglomération du Mesnil-Esnard en direction de Darnétal à hauteur du centre Normandie-Lorraine. Des travaux sont actuellement en cours pour la création d'une piste cyclable bidirectionnelle. 
 
+::banner{type="wip"}
+Les travaux de création de la piste bilatérale ont cours actuellement sur la route départementale 138 entre la RD 6014 et la rue Gustave Flaubert et entre la rue Pierre Corneille et la rue du Moulin des prés
+::
+
 ### Liaison Mesnil-Esnard - Saint-Léger-du-Bourg-Denis
 
 A la sortie de l'agglomération du Mesnil-Esnard, l'itinéraire :line-link{line=8} emprunte l'ancienne route de Darnétal appelée côte de Waddington puis rejoint la route de Darnétal (RD 138) en entrée d'agglomération de Saint-Léger-du-Bourg-Denis. Ce tronçon utilise une ancienne route actuellement coupée à la circulation des véhicules motorisées. En l'état, il s'agit d'un tronçon tout à fait propice à la pratique cyclable. Il existe un projet de requalification de ce tronçon en voie-verte.
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260117_151505.jpg
+caption: Aperçu de l'itinéraire 8 sur l'ancienne route de Darnétal
+credit: Pierre Héroux 
+---
+::
 
 Le tronçon précédent débouche sur la rue du Mesnil-Esnard à Saint-Léger-du-Bourg-Denis. L'itinéraire se poursuit le long de cette rue, actuellement sans aménagement, jusqu'à arriver sur la route du Mesnil-Esnard (RD 138). Il existe un projet d'aménagement de ce tronçon par le biais d'une piste bidirectionnelle.
 

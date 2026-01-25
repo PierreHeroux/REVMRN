@@ -22,11 +22,27 @@ L'association Sabine n'a pas connaissance de projet concernant cet axe.
 
 L'itinéraire emprunte ensuite la côte de Canteleu en direction de Rouen jusqu'à l'intersection avec la rue Samuel Lecoeur. A cet endroit, l'aménagement n'est pas homogènre entre les deux sens de circulation. Si dans le sens montant, il a été réalisé une piste cyclable séparée physiquement par une bordure béton du reste du flux routier dont la largeur est par endroit inférieure aux recommandations, il n'existe pas à proprepent parler d'aménagement cyclable sur la côte de Canteleu dans le sens de la descente. Seuls des pictogrammes vélo ont été peints au milieu de la voie. Pour cette raison, l'aménagement a été considéré non satisfaisant.
 
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_153017.jpg
+caption: Aperçu de l'itinéraire 9 sur la côte de Canteleu
+credit: Pierre Héroux 
+---
+::
+
 L'itinéraire :line-link{line=9} se connecte ici avec l'itinéraire :line-link{line=12}.
 
 ### Boulevard Bicheray - Kindarena
 
 L'aménagement prend ensuite la forme d'une piste bidirectionnelle placée en rive sud sur tout le linéaire du boulevard Bicheray. Dans la continuité, après les barières du Havre, l'itinéraire se poursuit quelques dizaines de mètres sur la rue Nansen. L'itinéraire traverse ensuite la rue Nansen pour passer sous les accès nord du pont Flaubert et rejoindre la zone du pôle d'échange du Mont-Riboudet, et ce, toujours sous la forme d'une piste bidirectionnelle.
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_152700.jpg
+caption: Aperçu de l'itinéraire 9 sur l'avenue Bicheray derrière le magasin Centrakor
+credit: Pierre Héroux 
+---
+::
 
 ::content-image
 ---
@@ -139,13 +155,27 @@ panoramax: seq=40932dac-3a72-4f0b-b2b3-b1b8bf52543b;pic=7624c209-8fbf-4ab4-ac04-
 
 A la sortie de la rue Marie Curie, l'itinéraire :line-link{line=9} va suivre la route de Lyons-la-Forêt en direction de l'est. 
 
-L'itinéraire reprend la route de Lyons-la-Forêt, tout d'abord sans aménagement cyclable existant jusqu'à avoir passé deux ouvrages d'art SNCF. Passé ces ouvrages d'art, l'aménagement est implanté par des bandes cyclables bilatérales peu propice à accueillir des cyclistes non aguéris du fait de leur positionnement à proximité du trafic et de leur entretien. 
+L'itinéraire reprend la route de Lyons-la-Forêt, tout d'abord sans aménagement cyclable existant jusqu'à avoir passé deux ouvrages d'art SNCF. Passé ces ouvrages d'art, l'aménagement est implanté par des pistes cyclables bilatérales.
 
-A partir de l'intersection avec la rue de Repainville en direction de l'est, l'aménagement prend la forme d'une piste bidirectionnelle positionnée entre les deux sens de circulation de la route nationale N31 jusqu'au carrefour dit de la bascule qui marque l'intersection entre la route nationale N31 et la suite de la route de Lyons-la-Forêt à Darnétal (RD 42). L'itinéraire se poursuit sur la route de Lyons-le-Forêt le long de la route départementale RD 42 jusqu'au giratoire marquant l'intersection avec la rue Saint-Marguerite à Saint-Léger-du-Bourg-Denis via une piste bidirectionnelle positionnée en rive nord et peu qualitative (entrées charetières, défaut de démarcation avec le cheminement piéton). A cet endroit, l'itinéraire :line-link{line=9} se connecte avec l'extrémité d'une des branches de l'itinéraire :line-link{line=8}. Il existe un projet de réaménagement de l'itinéraire cyclable entre la ZAC Rouen Innovation Santé et cette interconnexion entre les itinéraires 8 et 9.
-
-::banner{type="wip"}
-Des travaux en lien avec le projet de réaménagement sont actuellement en cours sur la route de Lyons-la-Forêt entre la rue de la Petite Chartreuse et la rue de Repainville.
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164311.jpg
+caption: Aperçu de l'itinéraire 9 sur la route de Lyons entre la rue de la Petite Chartreuse et la rue de Repainville
+credit: Pierre Héroux 
+---
 ::
+
+A partir de l'intersection avec la rue de Repainville en direction de l'est, l'aménagement prend la forme d'une piste bidirectionnelle positionnée entre les deux sens de circulation de la route nationale N31 jusqu'au carrefour dit de la bascule qui marque l'intersection entre la route nationale N31 et la suite de la route de Lyons-la-Forêt à Darnétal (RD 42). 
+
+::content-image
+---
+imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164842.jpg
+caption: Aperçu de l'itinéraire 9 sur la route de Lyons entre la rue de Repainville et le carrefour de la Bascule
+credit: Pierre Héroux 
+---
+::
+
+L'itinéraire se poursuit sur la route de Lyons-le-Forêt le long de la route départementale RD 42 jusqu'au giratoire marquant l'intersection avec la rue Saint-Marguerite à Saint-Léger-du-Bourg-Denis via une piste bidirectionnelle positionnée en rive nord et peu qualitative (entrées charetières, défaut de démarcation avec le cheminement piéton). A cet endroit, l'itinéraire :line-link{line=9} se connecte avec l'extrémité d'une des branches de l'itinéraire :line-link{line=8}. Il existe un projet de réaménagement de l'itinéraire cyclable entre la ZAC Rouen Innovation Santé et cette interconnexion entre les itinéraires 8 et 9.
 
 L'itinéraire se poursuit ensuite sur environ 1,3km sur la route de Lyons-la-Forêt (RD 42) dans Saint-Léger-du-Bourg-Denis jusqu'à son extrémité située au niveau de l'intersection avec la rue de l'Eglise. Il n'existe actuellement pas d'aménagement cyclable sur ce tronçon.
 

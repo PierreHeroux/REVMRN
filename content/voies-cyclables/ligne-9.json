@@ -863,34 +863,10 @@
       "properties": {
         "line": 9,
         "name": "route de Lyons Est 1",
-        "status": "planned",
+        "status": "done",
         "type": "bilaterale",
         "link": "/revmrn-9#route-de-lyons-la-forêt",
-        "quality": "unsatisfactory"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            1.1262524699000949,
-            49.4368493220243
-          ],
-          [
-            1.1272074410527182,
-            49.43684149424078
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 9,
-        "name": "route de Lyons Est 1",
-        "status": "wip",
-        "type": "bandes-cyclables",
-        "link": "/revmrn-9#route-de-lyons-la-forêt",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "coordinates": [

@@ -314,7 +314,7 @@
       "properties": {
         "line": 8,
         "name": "route de Darnétal est",
-        "status": "planned",
+        "status": "wip",
         "type": "aucun",
         "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
@@ -400,10 +400,6 @@
           [
             1.1594781825585017,
             49.40449069925464
-          ],
-          [
-            1.1593452678108065,
-            49.40478086013502
           ]
         ],
         "type": "LineString"
@@ -510,10 +506,10 @@
       "properties": {
         "line": 8,
         "name": "route de Paris FSP 1",
-        "status": "wip",
+        "status": "done",
         "type": "aucun",
         "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "coordinates": [
@@ -654,10 +650,10 @@
       "properties": {
         "line": 8,
         "name": "rue de Paris Boos 2",
-        "status": "wip",
+        "status": "done",
         "type": "aucun",
         "link": "/revmrn-8#boos",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "coordinates": [
@@ -726,7 +722,7 @@
       "properties": {
         "line": 8,
         "name": "D138",
-        "status": "planned",
+        "status": "wip",
         "type": "aucun",
         "link": "/revmrn-8#liaison-neuville-chant-doisel-boos",
         "quality": "unsatisfactory"
