@@ -24,7 +24,7 @@ L'itinéraire emprunte ensuite la côte de Canteleu en direction de Rouen jusqu'
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_153017.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_153017.jpg
 caption: Aperçu de l'itinéraire 9 sur la côte de Canteleu
 credit: Pierre Héroux 
 ---
@@ -159,7 +159,7 @@ L'itinéraire reprend la route de Lyons-la-Forêt, tout d'abord sans aménagemen
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164311.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164311.jpg
 caption: Aperçu de l'itinéraire 9 sur la route de Lyons entre la rue de la Petite Chartreuse et la rue de Repainville
 credit: Pierre Héroux 
 ---
@@ -169,7 +169,7 @@ A partir de l'intersection avec la rue de Repainville en direction de l'est, l'a
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164842.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164842.jpg
 caption: Aperçu de l'itinéraire 9 sur la route de Lyons entre la rue de Repainville et le carrefour de la Bascule
 credit: Pierre Héroux 
 ---

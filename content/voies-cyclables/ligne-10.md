@@ -20,7 +20,7 @@ La section entre la rue Jean Effel et la traversée du cailly est jugée insatis
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155338.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155338.jpg
 caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
 credit: Pierre Héroux 
 ---
@@ -28,7 +28,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155426.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155426.jpg
 caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
 credit: Pierre Héroux 
 ---
@@ -36,7 +36,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155455.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155455.jpg
 caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
 credit: Pierre Héroux 
 ---
@@ -46,7 +46,7 @@ La section entre la rue Edouard Fort et le rond-point de la Demi-Lune est égale
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155720.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155720.jpg
 caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
 credit: Pierre Héroux 
 ---
@@ -54,7 +54,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155851.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_155851.jpg
 caption: Aperçu de l'itinéraire 10 dans la commune de Maromme
 credit: Pierre Héroux 
 ---
@@ -67,7 +67,7 @@ Après avoir traversé la route de Dieppe au nord du rond-point de la Demi-Lune,
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160012.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160012.jpg
 caption: Aperçu de l'itinéraire 10 sur la rue Charles de Gaulle à Notre-Dame-de-Bondeville
 credit: Pierre Héroux 
 ---
@@ -80,7 +80,7 @@ L'itinéraire suit sur un linéaire de 2,2km l'avenue du Bois des Dames entre No
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160324.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160324.jpg
 caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
 credit: Pierre Héroux 
 ---
@@ -88,7 +88,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160609.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_160609.jpg
 caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
 credit: Pierre Héroux 
 ---
@@ -96,7 +96,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161241.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161241.jpg
 caption: Aperçu de l'itinéraire 10 sur l'avenue du Bois des Dames
 credit: Pierre Héroux 
 ---
@@ -149,7 +149,7 @@ credit: Pierre Héroux
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161929.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_161929.jpg
 caption: Aperçu de l'itinéraire 10 sur la rue Georges Charpak à Mont-Sanit-Aignan
 credit: Pierre Héroux 
 ---

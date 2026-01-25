@@ -28,7 +28,7 @@ Sur la RD 6014 dans le bourg de Boos, à partir de la rue des Andelys et en dire
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_172508.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_172508.jpg
 caption: Aperçu de l'itinéraire 8 dans la commune de Boos sur la RD 6014
 credit: Pierre Héroux 
 ---
@@ -83,7 +83,7 @@ A la sortie de l'agglomération du Mesnil-Esnard, l'itinéraire :line-link{line=
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260117_151505.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260117_151505.jpg
 caption: Aperçu de l'itinéraire 8 sur l'ancienne route de Darnétal
 credit: Pierre Héroux 
 ---
