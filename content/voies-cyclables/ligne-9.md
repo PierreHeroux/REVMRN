@@ -38,7 +38,7 @@ L'aménagement prend ensuite la forme d'une piste bidirectionnelle placée en ri
 
 ::content-image
 ---
-imageUrl:https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_152700.jpg
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_152700.jpg
 caption: Aperçu de l'itinéraire 9 sur l'avenue Bicheray derrière le magasin Centrakor
 credit: Pierre Héroux 
 ---
