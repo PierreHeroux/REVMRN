@@ -33,6 +33,32 @@ Un projet d'aménagement de cet axe entre le rond-point des Harkis et la place P
 
 L'itinéraire se poursuit vers l'ouest via l'avenue Jean Jaurès au Petit-Quevilly. Entre l'avenue de Caen et la rue Pablo Neruda, l'aménagement prend la forme d'une piste cyclable bidirectionnelle. Au-delà de la rue Pablo Neruda, et jusqu'à la place Waldeck Rousseau, l'aménagement est bilatéral, implanté en rive nord par le biais d'une piste cyclable positionnée sur le trottoir avec une démarcation insuffisante du cheminement piéton causant des conflit d'usage, et en rive sud par le biais d'une bande cyclable. La partie situé à l'ouest de la rue Neruda est donc non satisfaisante. Elle fait l'objet d'un projet de requalification de plus grande ampleur. A cet occasion, il sera réimplanté sous la forme d'une piste bidirectionnelle en rive nord de l'avenue.
 
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/02/IMG_20260131_174556.jpg
+caption: Aperçu de l'itinéraire 3 sur l'avenue Jean Jaurès au Petit-Quevilly 
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/02/IMG_20260131_174741.jpg
+caption: Aperçu de l'itinéraire 3 sur l'avenue Jean Jaurès au Petit-Quevilly
+credit: Pierre Héroux 
+---
+::
+
+::content-image
+---
+imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/02/IMG_20260131_173455.jpg
+caption: Aperçu de l'itinéraire 3 sur l'avenue Jean Jaurès au Petit-Quevilly
+credit: Pierre Héroux 
+---
+::
+
+
+
 ### Avenue des Alliés
 
 Sur l'avenue des Alliés, il existe actuellement un aménagement cyclable implanté par le biais de bandes cyclables sur le tracé de l'itinéraire. Ce tronçon est concerné par un projet visant à créer une piste cyclable bidirectionnelle en rive nord de l'avenue.
