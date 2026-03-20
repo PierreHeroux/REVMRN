@@ -62,7 +62,7 @@
       "properties": {
         "line": 8,
         "name": "route du Mesnil-Esnard",
-        "status": "planned",
+        "status": "wip",
         "type": "aucun",
         "link": "/revmrn-8#saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
@@ -256,6 +256,26 @@
           [
             1.1490559610974458,
             49.41501154081894
+          ]
+        ],
+        "type": "LineString"
+      }
+    },          
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "route de Darnétal ouest",
+        "status": "wip",
+        "type": "aucun",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.1490559610974458,
+            49.41501154081894
           ],
           [
             1.1504064759021162,
@@ -354,7 +374,7 @@
       "properties": {
         "line": 8,
         "name": "D138 Nord",
-        "status": "planned",
+        "status": "wip",
         "type": "aucun",
         "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
         "quality": "unsatisfactory"
