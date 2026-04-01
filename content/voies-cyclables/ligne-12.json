@@ -316,11 +316,11 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 10,
+        "line": 12,
         "name": "rue des Martyrs Ouest 1",
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-10",
+        "link": "/revmrn-12",
         "quality": "satisfactory"
       },
       "geometry": {
@@ -349,10 +349,10 @@
       "type": "Feature",
       "properties": {
         "name": "rue des Martyrs Ouest 2",
-        "line": 10,
+        "line": 12,
         "status": "done",
         "type": "bidirectionnelle",
-        "link": "/revmrn-10",
+        "link": "/revmrn-12",
         "quality": "unsatisfactory"
       },
       "geometry": {

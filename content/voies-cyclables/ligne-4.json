@@ -6,7 +6,7 @@
       "properties": {
         "name": "Avenue Jean Jaurès Ouest",
         "line": 4,
-        "status": "postponed",
+        "status": "planned",
         "type": "bandes-cyclables",
         "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
@@ -46,7 +46,7 @@
       "properties": {
         "name": "Avenue Jean Jaurès Est",
         "line": 4,
-        "status": "postponed",
+        "status": "planned",
         "type": "bilaterale",
         "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
@@ -82,7 +82,7 @@
       "properties": {
         "line": 4,
         "name": "Rue John Fitzgerald Kennedy",
-        "status": "postponed",
+        "status": "planned",
         "type": "aucun",
         "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
@@ -110,7 +110,7 @@
       "properties": {
         "line": 4,
         "name": "Rue de Beccles",
-        "status": "postponed",
+        "status": "planned",
         "type": "aucun",
         "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
@@ -134,7 +134,7 @@
       "properties": {
         "line": 4,
         "name": "Rue du Madrillet Ouest",
-        "status": "postponed",
+        "status": "planned",
         "type": "aucun",
         "link": "/revmrn-4#traversée-de-petit-couronne",
         "quality": "unsatisfactory"
