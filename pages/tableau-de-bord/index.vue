@@ -23,12 +23,6 @@
                 {{ displayDistanceInKm(getTotalDistance([voie]), 1) }}
               </span>
             </div>
-            <div v-if="getTrafic(voie)" class="text-center text-sm text-gray-900">
-              Fréquentation max 2030:
-              <span class="font-bold" :style="`color: ${getLineColor(getLine(voie))}`">
-                {{ getTrafic(voie) }}
-              </span>
-            </div>
             <div>
               <ProgressBar :voies="[voie]" />
               <Stats :voies="[voie]" :precision="1" class="mt-8" />
