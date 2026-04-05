@@ -15,6 +15,5 @@ La Métropole indique que la faisabilité technique est à l'étude. La créatio
 ::
 
 ::banner{type="wip"}
-Des travaux de création d'une piste bidirectionnelle ont actuellement court à Déville-lès-Rouen sur la rue des Grosses Pierre entre la rue de l'Industrie et la rue des Pellisiers ainsi que dans sa continuité à Maromme sur la rue du 8 mai entre la rue des Pelissiers et l'avenue du Val aux Dames.
+Des travaux de création d'une piste bidirectionnelle ont actuellement cours à Déville-lès-Rouen sur la rue des Grosses Pierre entre la rue de l'Industrie et la rue des Pellissiers ainsi que dans sa continuité à Maromme sur la rue du 8 mai 1945 entre la rue des Pelissiers et l'avenue du Val aux Dames.
 ::
-

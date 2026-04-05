@@ -17,7 +17,7 @@ Considérant que l'itinéraire :line-link{line=8}, ne constitue pas un tracé li
 L'itinéraire démarre à l'est à la sortie du bourg de la Neuville-Chant-d'Oisel en direction de Boos par la route des Andelys. Il n'existe actuellement aucun aménagement cyclable sur ce tronçon. Cependant un projet consiste en la création d'une voie verte entre la Neuville-Chant-d'Oisel et Boos sur la rive sud de la route départementale 138.
 
 ::banner{type="wip"}
-Les travaux de création de la voie verte constituant un tronçon de l'itinéraire :line-link{line=8} ont cours actuellement. Ils ont lieux sur la rue des Andelys entre Boos (Allée de la Coudrette) et la Neuville-Chant-d'Oisel (rue Neuve)
+Les travaux de création de la voie verte constituant un tronçon de l'itinéraire :line-link{line=8} ont cours actuellement. Ils ont lieu sur la rue des Andelys entre Boos (Allée de la Coudrette) et la Neuville-Chant-d'Oisel (rue Neuve)
 ::
 
 ### Boos
