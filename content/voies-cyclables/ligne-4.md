@@ -63,6 +63,10 @@ streetView: 49.388438,1.0588378,3a,75y,76.14h,72.19t
 
 L'itinéraire traverse ensuite la ville de Saint-Etienne-du-Rouvray, d'abord au travers du technopole du Madrillet, via les avenues de l'Université, Galilée et Isaac Newton. Sur ce tronçon, l'itinéraire est implanté sous la forme de pistes cyclables bilatérales en proximité immédiate du cheminement piéton sans démarcation suffisante. Les pistes ont également des largeurs inférieures aux préconisations. Enfin, le régime de priorité aux intersections n'est pas conforme avec les attendus d'un itinéraire express vélo.
 
+::banner{type="wip"}
+Des travaux ont actuellement lieu sur le parvis du lycée Lecorbusier et le long du parking. Ces travaux engendrent la suppression de l'itinéraire cyclable.
+::
+
 ::content-image
 ---
 imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2025/12/IMG_20251215_142829.jpg

@@ -13,3 +13,8 @@ Si l'itinéraire :line-link{line=12} figure sur les documents de la Métropole, 
 
 La Métropole indique que la faisabilité technique est à l'étude. La création de l'itinéraire :line-link{line=12} n'est pas incluse dans le budget alloué au Réseau Express Vélo.
 ::
+
+::banner{type="wip"}
+Des travaux de création d'une piste bidirectionnelle ont actuellement court à Déville-lès-Rouen sur la rue des Grosses Pierre entre la rue de l'Industrie et la rue des Pellisiers ainsi que dans sa continuité à Maromme sur la rue du 8 mai entre la rue des Pelissiers et l'avenue du Val aux Dames.
+::
+

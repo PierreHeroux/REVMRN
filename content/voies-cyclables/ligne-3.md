@@ -21,7 +21,7 @@ Entre la rue des Emmurées et la rue de l'Amiral Cécille, l'aménagement prend 
 
 Entre la rue de l'Amiral Cécille et l'avenue de Caen, l'itinéraire présente une trajectoire sinueuse. En effet, il longe tout d'abord l'Avenue de Bretagne au nord, jusqu'au pont Tous Vents pour basculer ensuite en rive sud, jusqu'au rond-point des Harkis, les cyclistes se dirigeant vers l'ouest devant par la suite opérer une nouvelle bascule côté nord sur l'avenue de Caen. Par ailleurs, entre la rue des Emmurées et le rond-point des Harkis, l'itinéraire passe pour ce qui concerne sa partie en rive nord sur une zone piétonne présentant même quelques marches et après avoir traversé le pont, l'aménagement prend la forme d'une zone de rencontre après avoir basculé sur la rive sud. Enfin, sur ce tronçon, il n'existe aucun jalonnement. Cela, combiné à la trajectoire sinueuse rend l'itinéraire peu lisible. Les cyclistes ne connaissant pas les lieux ne seront pas informés de la nécessité, peu naturelle, de traverser le pont Tous vents et seront confrontés à un cul de sac dans le square Gaillard Loiselet. Considérant l'absence de jalonnement, la trajectoire indirecte inefficace et la mixité avec un flux piéton très dense, l'aménagement ne remplit pas ici les attendus d'un itinéraire de réseau express vélo.
 
-Un projet d'aménagement du tronçon par le biais d'une piste bidirectionnellet entre la rue de l'Amiral Cécile et le rond-point des Harkis a été présenté aux associations.
+Un projet d'aménagement du tronçon par le biais d'une piste bidirectionnelle entre la rue de l'Amiral Cécile et le rond-point des Harkis a été présenté aux associations.
 
 ### Avenue de Caen
 

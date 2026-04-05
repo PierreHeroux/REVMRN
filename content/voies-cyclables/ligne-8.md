@@ -74,12 +74,16 @@ Il existe cependant un projet d'aménagement de ce tronçon long de 3,5km, mais 
 Au niveau du giratoire marquant l'intersection entre la route de Paris (RD 6014) et la route départementale RD 138, une branche de l'itinéraire :line-link{line=8} prend la direction de Saint-Léger-du-Bourg-Denis en empruntant la RD 138. Il n'existe actuellement pas d'aménagement cyclable le long de cet itinéraire entre le giratoire de Franqueville-Saint-Pierre et la sortie d'agglomération du Mesnil-Esnard en direction de Darnétal à hauteur du centre Normandie-Lorraine. Des travaux sont actuellement en cours pour la création d'une piste cyclable bidirectionnelle. 
 
 ::banner{type="wip"}
-Les travaux de création de la piste bilatérale ont cours actuellement sur la route départementale 138 entre la RD 6014 et la rue Gustave Flaubert et entre la rue Pierre Corneille et la rue du Moulin des prés
+Les travaux de création de la piste bilatérale ont cours actuellement sur la route départementale 138 entre la RD 6014 et le lycée de la Chataigneraie
 ::
 
 ### Liaison Mesnil-Esnard - Saint-Léger-du-Bourg-Denis
 
 A la sortie de l'agglomération du Mesnil-Esnard, l'itinéraire :line-link{line=8} emprunte l'ancienne route de Darnétal appelée côte de Waddington puis rejoint la route de Darnétal (RD 138) en entrée d'agglomération de Saint-Léger-du-Bourg-Denis. Ce tronçon utilise une ancienne route actuellement coupée à la circulation des véhicules motorisées. En l'état, il s'agit d'un tronçon tout à fait propice à la pratique cyclable. Il existe un projet de requalification de ce tronçon en voie-verte.
+
+::banner{type="wip"}
+Les travaux de création de l'itinéraire cyclable ont court actuellement sur l'ancienne route de Darnétal et la route du Mesnil-Esnard à Saint-Léger-du-Bourg-Denis.
+::
 
 ::content-image
 ---
