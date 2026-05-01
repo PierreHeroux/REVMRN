@@ -19,7 +19,7 @@
             "properties": {
                 "name": "Liaison itinéraire 3",
                 "line": 4,
-                "status": "posponed",
+                "status": "postponed",
                 "type": "aucun",
                 "link": "/revmrn-4#traversée-de-petit-couronne",
                 "quality": "unsatisfactory"
