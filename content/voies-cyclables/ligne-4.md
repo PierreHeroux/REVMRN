@@ -12,7 +12,7 @@ cover:
 
 ### Traversée de Petit-Couronne
 
-L'itinéraire :line-link{line=4} débute à l'ouest au niveau de l'avenue Jean Jaurès à Petit-Couronne où il offre une connexion avec l'itinéraire :line-link{line=3}. Jusqu'au giratoire avec les rues Victor Hugo et Georges Clémenceau, il est implanté actuellement sous la forme de bandes cyclables. Plus à l'est et jusqu'à la rue John Fitzgerald Kennedy, il existe actuellement des pistes bilatérales positionnées sur le trottoir en proximité immédiate du cheminement piéton et sans réelle démarcation. La largeur est inférieure à celle préconisée. Les régimes de priorité soumis au cycliste ne sont pas conformes aux attendus d'un itinéraire express.
+L'itinéraire :line-link{line=4} débute à l'ouest au niveau d'un chemin situé à l'ouest du centre-ville de Petit-Couronne, là où il offre une connexion avec l'itinéraire :line-link{line=3}. Il rejoint ensuite l'avenue Aristide Briand au niveau de son intersection avec le Boulevard Jean Jaurès sur lequel il se poursuit. Jusqu'au giratoire avec les rues Victor Hugo et Georges Clémenceau, il est implanté actuellement sous la forme de bandes cyclables. Plus à l'est et jusqu'à la rue John Fitzgerald Kennedy, il existe actuellement des pistes bilatérales positionnées sur le trottoir en proximité immédiate du cheminement piéton et sans réelle démarcation. La largeur est inférieure à celle préconisée. Les régimes de priorité soumis au cycliste ne sont pas conformes aux attendus d'un itinéraire express.
 
 Plus à l'est, l'itinéraire se poursuit par la rue John Fitzgerald Kennedy, puis la rue du Madrillet. Sur ce tronçon, il n'existe aucun aménagement cyclable jusqu'à l'orée du bois. 
 

@@ -64,7 +64,7 @@ panoramax: seq=1ef6da98-ddae-49f4-b0e2-e30225fb68ff;pic=fc049366-4972-4beb-ad46-
 ### Pont Corneille
 
 ::banner{type="info"}
-A l'issue de travaux menés entre 2024 et 2026, des aménagements cyclables ont été créés sur le Pont Corneille sous la forme de pistes bilatérales. Ces aménagements sont jugés insatisfaisants car ils proposent une discontinuité avec une configuration potentiellement dangereuse. Par ailleurs, la largeur proposée pour ces pistes est inférieures aux préconisations du plan vélo de la Métropole et sous-dimensionnées pour accueillir le flux cycliste ambitionné par le plan de mobilité alors meme qu'il est déjà sur cet axe le plus important de la Métropole.
+A l'issue de travaux menés entre 2024 et 2026, des aménagements cyclables ont été créés sur le Pont Corneille sous la forme de pistes bilatérales. Ces aménagements sont jugés insatisfaisants car ils proposent une discontinuité avec une configuration potentiellement dangereuse. Par ailleurs, la largeur proposée pour ces pistes est inférieure aux préconisations du plan vélo de la Métropole et sous-dimensionnées pour accueillir le flux cycliste ambitionné par le plan de mobilité alors meme qu'il est déjà sur cet axe le plus important de la Métropole.
 ::
 
 ### Quai Jacques Anquetil 

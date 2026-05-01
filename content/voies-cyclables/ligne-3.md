@@ -101,7 +101,7 @@ streetView: 49.4026528,1.0336327,3a,75y,54.09h,85.88t
 
 ### Traversée de Petit-Couronne
 
-Après avoir de nouveau traversée la sud 3, l'itinéraire se poursuit avec une traversée de la ville de Petit-Couronne via les rues de la Voute, Aristide Briand, Pierre Corneille. Notre interprétation des plans communiqués par la Métropole Rouen Normandie nous laisse à penser que l'itinéraire rejoindrait le boulevard Cordonnier via l'impasse Aglaée Drouard. Aucun anménagement cyclable n'existe sur toute la longueur de ce linéaire.
+Après avoir de nouveau traversée la sud 3, l'itinéraire se poursuit avec une traversée de la ville de Petit-Couronne via les rues de la Voute, Aristide Briand, puis un chemin situé à l'ouest du centre-ville longeant la voie de chemin de fer. Cet itinéraire rejoint alors le boulevard Cordonnier avant de traverser le site de l'ancienne rafinerie Shell.
 
 ::banner{type="postponed"}
 L'association Sabine n'a pas connaissance de projet d'aménagement concernant ce tronçon.

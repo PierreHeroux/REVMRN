@@ -7,8 +7,32 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        1.023822,
-                        49.393959
+                        1.022282,
+                        49.394316
+                    ],
+                    [
+                        1.02367,
+                        49.393999
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Liaison itinéraire 3",
+                "line": 4,
+                "status": "posponed",
+                "type": "aucun",
+                "link": "/revmrn-4#traversée-de-petit-couronne",
+                "quality": "unsatisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.023695,
+                        49.393997
                     ],
                     [
                         1.024261,
