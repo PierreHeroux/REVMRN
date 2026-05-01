@@ -1,0 +1,16 @@
+{
+    "name": "Eco 41 - Bas Aulnay",
+    "description": "",
+    "arrondissement": "Saint-Pa\u00ebr",
+    "coordinates": [
+        0.89422333,
+        49.49944543
+    ],
+    "lines": [],
+    "counts": [
+        {
+            "month": "2026-04-01",
+            "count": 2520
+        }
+    ]
+}
