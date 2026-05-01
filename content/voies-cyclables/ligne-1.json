@@ -374,7 +374,7 @@
       "properties": {
         "line": 1,
         "name": "Pont Corneille",
-        "status": "wip",
+        "status": "done",
         "type": "bilaterale",
         "link": "/revmrn-1#pont-corneille",
         "quality": "unsatisfactory"
