@@ -777,16 +777,12 @@
                     [
                         1.016062,
                         49.383846
-                    ],
-                    [
-                        1.018449,
-                        49.383436
                     ]
                 ]
             },
             "properties": {
                 "line": 3,
-                "name": "Rue Pierre Corneille",
+                "name": "Chemin Petit-Couronne",
                 "status": "postponed",
                 "type": "aucun",
                 "link": "/revmrn-3#traversée-de-petit-couronne",
@@ -799,8 +795,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        1.018428,
-                        49.383417
+                        1.016082,
+                        49.383833
                     ],
                     [
                         1.019238,
