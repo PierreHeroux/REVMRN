@@ -133,6 +133,10 @@ panoramax: seq=6a31a42b-92a6-476b-9846-086f11fc79ac;pic=04253fe8-9395-4ef6-90ed-
 
 A l'intersection entre le boulevard Gambetta et la rue d'Amiens, l'itinéraire opère une nouvelle bascule sur le côté est du boulevard pour traverser la ZAC Rouen Innovation Santé en empruntant tout d'abord la partie ouest de la route de Lyons-la-Forêt, puis la rue Marie Curie jusqu'à retrouver la route de Lyons-la-Forêt. Sur ce tronçon, l'itinéraire est implanté par le biais d'une piste bilatérale.
 
+::banner{type="wip"}
+Des travaux condamnent actuellement l'accès à la piste cyclable sur la rue Marie Curie dans le sens Est->Ouest.
+::
+
 ::content-image
 ---
 panoramax: seq=15eb6413-b9c3-4616-a0ae-1689b45e5809;pic=d50bd28b-f4ed-4087-82cc-b476f6f4a2a5;open=true
@@ -166,6 +170,11 @@ credit: Pierre Héroux
 ::
 
 A partir de l'intersection avec la rue de Repainville en direction de l'est, l'aménagement prend la forme d'une piste bidirectionnelle positionnée entre les deux sens de circulation de la route nationale N31 jusqu'au carrefour dit de la bascule qui marque l'intersection entre la route nationale N31 et la suite de la route de Lyons-la-Forêt à Darnétal (RD 42). 
+
+::banner{type="wip"}
+Des travaux ayant cours actuellement condamnent l'accès à l'itinéraire cyclable sur la route de Lyons la Forêt entre l'intersection avec la rue de Repainville et l'intersection avec la rue de Waddington.
+::
+
 
 ::content-image
 ---

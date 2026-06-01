@@ -41,6 +41,10 @@ On note également que dans le sens de rotation anti-horaire, entre la sortie de
 
 Pour cette raison, cette portion de l'itinéraire est indiqué comme non satisfaisant.
 
+::banner{type="wip"}
+Des travaux ayant cours actuellement condamnent l'accès à l'itinéraire cyclable.
+::
+
 ### Boulevard Gambetta
 
 Sur le boulevard Gambetta, l'itinéraire :line-link{line=1} est implanté par le biais d'une piste cyclable bidirectionnelle. La section au nord de la rue Martainville a été refaite en 2024 aux normes du plan vélo. La partie au sud de la rue Martainville était existante. Le tronçon situé au niveau du carrefour avec la rue Martainville est jugé non satisfaisant considérant la sinuosité et les rayons de courbure incompatibles avec un itinéraire de type réseau express.
