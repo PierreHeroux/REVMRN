@@ -746,8 +746,8 @@
             },
             "properties": {
                 "line": 8,
-                "name": "rue Saint-Marguerite sud",
-                "status": "wip",
+                "name": "rue Saint-Marguerite nord",
+                "status": "planned",
                 "type": "aucun",
                 "link": "/revmrn-8#saint-léger-du-bourg-denis",
                 "quality": "unsatisfactory"
@@ -778,9 +778,9 @@
             },
             "properties": {
                 "line": 8,
-                "name": "rue Saint-Marguerite",
+                "name": "rue Saint-Marguerite sud",
                 "status": "planned",
-                "type": "aucun",
+                "type": "wip",
                 "link": "/revmrn-8#saint-léger-du-bourg-denis",
                 "quality": "unsatisfactory"
             }
