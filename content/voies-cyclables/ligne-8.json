@@ -1,789 +1,797 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.153598,
-                        49.429545
-                    ],
-                    [
-                        1.153534,
-                        49.429457
-                    ],
-                    [
-                        1.153521,
-                        49.429306
-                    ],
-                    [
-                        1.153372,
-                        49.429243
-                    ],
-                    [
-                        1.152507,
-                        49.429344
-                    ],
-                    [
-                        1.152475,
-                        49.429272
-                    ],
-                    [
-                        1.151836,
-                        49.429369
-                    ],
-                    [
-                        1.151584,
-                        49.429348
-                    ],
-                    [
-                        1.151409,
-                        49.429218
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route du Mesnil-Esnard",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.151397,
-                        49.429209
-                    ],
-                    [
-                        1.151409,
-                        49.429142
-                    ],
-                    [
-                        1.15161,
-                        49.428957
-                    ],
-                    [
-                        1.152152,
-                        49.428655
-                    ],
-                    [
-                        1.154024,
-                        49.427983
-                    ],
-                    [
-                        1.155503,
-                        49.427458
-                    ],
-                    [
-                        1.155813,
-                        49.427135
-                    ],
-                    [
-                        1.156077,
-                        49.426505
-                    ],
-                    [
-                        1.156343,
-                        49.42564
-                    ],
-                    [
-                        1.156336,
-                        49.425535
-                    ],
-                    [
-                        1.156162,
-                        49.425309
-                    ],
-                    [
-                        1.154307,
-                        49.423968
-                    ],
-                    [
-                        1.15317,
-                        49.423182
-                    ],
-                    [
-                        1.152337,
-                        49.422619
-                    ],
-                    [
-                        1.151905,
-                        49.42246
-                    ],
-                    [
-                        1.151247,
-                        49.422221
-                    ],
-                    [
-                        1.150633,
-                        49.421956
-                    ],
-                    [
-                        1.150177,
-                        49.421604
-                    ],
-                    [
-                        1.149984,
-                        49.421432
-                    ],
-                    [
-                        1.149703,
-                        49.421182
-                    ],
-                    [
-                        1.149165,
-                        49.420685
-                    ],
-                    [
-                        1.148718,
-                        49.42018
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "côte de Waddington",
-                "status": "wip",
-                "type": "voie-verte",
-                "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.148714,
-                        49.420169
-                    ],
-                    [
-                        1.148126,
-                        49.419552
-                    ],
-                    [
-                        1.1469,
-                        49.418246
-                    ],
-                    [
-                        1.14608,
-                        49.417372
-                    ],
-                    [
-                        1.145892,
-                        49.417091
-                    ],
-                    [
-                        1.145963,
-                        49.416654
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Darnétal ouest",
-                "status": "planned",
-                "type": "aucun",
-                "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.145992,
-                        49.416658
-                    ],
-                    [
-                        1.148121,
-                        49.415474
-                    ],
-                    [
-                        1.150406,
-                        49.41428
-                    ],
-                    [
-                        1.152046,
-                        49.413452
-                    ],
-                    [
-                        1.153447,
-                        49.412759
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Darnétal ouest",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.153447,
-                        49.412759
-                    ],
-                    [
-                        1.154022,
-                        49.412411
-                    ],
-                    [
-                        1.154009,
-                        49.41228
-                    ],
-                    [
-                        1.154196,
-                        49.412129
-                    ],
-                    [
-                        1.154506,
-                        49.412129
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Darnétal rond-point",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.154667,
-                        49.412142
-                    ],
-                    [
-                        1.156368,
-                        49.411295
-                    ],
-                    [
-                        1.157392,
-                        49.410753
-                    ],
-                    [
-                        1.157947,
-                        49.410371
-                    ],
-                    [
-                        1.158276,
-                        49.410018
-                    ],
-                    [
-                        1.158451,
-                        49.409716
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Darnétal est",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.158464,
-                        49.409711
-                    ],
-                    [
-                        1.158683,
-                        49.409186
-                    ],
-                    [
-                        1.158744,
-                        49.408822
-                    ],
-                    [
-                        1.158654,
-                        49.408095
-                    ],
-                    [
-                        1.158428,
-                        49.407066
-                    ],
-                    [
-                        1.1584,
-                        49.406692
-                    ],
-                    [
-                        1.158497,
-                        49.406196
-                    ],
-                    [
-                        1.15871,
-                        49.405717
-                    ],
-                    [
-                        1.159233,
-                        49.404982
-                    ],
-                    [
-                        1.159478,
-                        49.404491
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "D138 Nord",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.159345,
-                        49.404781
-                    ],
-                    [
-                        1.159814,
-                        49.403529
-                    ],
-                    [
-                        1.160511,
-                        49.402789
-                    ],
-                    [
-                        1.160414,
-                        49.402693
-                    ],
-                    [
-                        1.160279,
-                        49.402651
-                    ],
-                    [
-                        1.160175,
-                        49.402415
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "D138 sud",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.160102,
-                        49.402378
-                    ],
-                    [
-                        1.158353,
-                        49.402869
-                    ],
-                    [
-                        1.155889,
-                        49.40349
-                    ],
-                    [
-                        1.146193,
-                        49.408119
-                    ],
-                    [
-                        1.141901,
-                        49.410291
-                    ],
-                    [
-                        1.133665,
-                        49.416192
-                    ],
-                    [
-                        1.131837,
-                        49.41751
-                    ],
-                    [
-                        1.129067,
-                        49.419529
-                    ],
-                    [
-                        1.124841,
-                        49.423327
-                    ],
-                    [
-                        1.124117,
-                        49.423757
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue de Paris Bonsecours - FSP",
-                "status": "postponed",
-                "type": "aucun",
-                "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.160214,
-                        49.402411
-                    ],
-                    [
-                        1.160343,
-                        49.402289
-                    ],
-                    [
-                        1.160576,
-                        49.402214
-                    ],
-                    [
-                        1.160853,
-                        49.402235
-                    ],
-                    [
-                        1.161531,
-                        49.402096
-                    ],
-                    [
-                        1.162099,
-                        49.401978
-                    ],
-                    [
-                        1.163175,
-                        49.401731
-                    ],
-                    [
-                        1.164937,
-                        49.401315
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Paris FSP 1",
-                "status": "done",
-                "type": "aucun",
-                "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.164918,
-                        49.401298
-                    ],
-                    [
-                        1.168337,
-                        49.400483
-                    ],
-                    [
-                        1.171477,
-                        49.399733
-                    ],
-                    [
-                        1.17406,
-                        49.398944
-                    ],
-                    [
-                        1.177399,
-                        49.397832
-                    ],
-                    [
-                        1.18366,
-                        49.395542
-                    ],
-                    [
-                        1.185707,
-                        49.394676
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "route de Paris FSP 2",
-                "status": "done",
-                "type": "bidirectionnelle",
-                "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.185786,
-                        49.39465
-                    ],
-                    [
-                        1.193994,
-                        49.39161
-                    ],
-                    [
-                        1.197241,
-                        49.390411
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "FSP - Boos",
-                "status": "done",
-                "type": "voie-verte",
-                "link": "/revmrn-8#liaison-boos-franqueville-saint-pierre",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.197241,
-                        49.390407
-                    ],
-                    [
-                        1.199464,
-                        49.389545
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue de Paris Boos 1",
-                "status": "done",
-                "type": "bidirectionnelle",
-                "link": "/revmrn-8#boos",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.199489,
-                        49.389553
-                    ],
-                    [
-                        1.200389,
-                        49.389212
-                    ],
-                    [
-                        1.201781,
-                        49.3887
-                    ],
-                    [
-                        1.202069,
-                        49.388659
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue de Paris Boos 2",
-                "status": "done",
-                "type": "aucun",
-                "link": "/revmrn-8#boos",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.202057,
-                        49.388633
-                    ],
-                    [
-                        1.202852,
-                        49.388177
-                    ],
-                    [
-                        1.20476,
-                        49.387225
-                    ],
-                    [
-                        1.207463,
-                        49.385911
-                    ],
-                    [
-                        1.2098,
-                        49.384762
-                    ],
-                    [
-                        1.212058,
-                        49.383664
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue des Andelys",
-                "status": "planned",
-                "type": "aucun",
-                "link": "/revmrn-8#boos",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.212058,
-                        49.383633
-                    ],
-                    [
-                        1.224064,
-                        49.37762
-                    ],
-                    [
-                        1.227894,
-                        49.375694
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "D138",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#liaison-neuville-chant-doisel-boos",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.147232,
-                        49.434979
-                    ],
-                    [
-                        1.148588,
-                        49.434479
-                    ],
-                    [
-                        1.14966,
-                        49.434093
-                    ],
-                    [
-                        1.149944,
-                        49.433744
-                    ],
-                    [
-                        1.15028,
-                        49.432883
-                    ],
-                    [
-                        1.150473,
-                        49.432279
-                    ],
-                    [
-                        1.150673,
-                        49.431846
-                    ],
-                    [
-                        1.150724,
-                        49.431754
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue Saint-Marguerite nord",
-                "status": "planned",
-                "type": "aucun",
-                "link": "/revmrn-8#saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        1.150724,
-                        49.431754
-                    ],
-                    [
-                        1.151389,
-                        49.431108
-                    ],
-                    [
-                        1.152275,
-                        49.430452
-                    ],
-                    [
-                        1.153624,
-                        49.429554
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "rue Saint-Marguerite sud",
-                "status": "wip",
-                "type": "aucun",
-                "link": "/revmrn-8#saint-léger-du-bourg-denis",
-                "quality": "unsatisfactory"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.147232,
+            49.434979
+          ],
+          [
+            1.148588,
+            49.434479
+          ],
+          [
+            1.14966,
+            49.434093
+          ],
+          [
+            1.149944,
+            49.433744
+          ],
+          [
+            1.15028,
+            49.432883
+          ],
+          [
+            1.150473,
+            49.432279
+          ],
+          [
+            1.150673,
+            49.431846
+          ],
+          [
+            1.150724,
+            49.431754
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue Saint-Marguerite nord",
+        "status": "wip",
+        "type": "aucun",
+        "link": "/revmrn-8#saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.150724,
+            49.431754
+          ],
+          [
+            1.151389,
+            49.431108
+          ],
+          [
+            1.152275,
+            49.430452
+          ],
+          [
+            1.153624,
+            49.429554
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue Saint-Marguerite sud",
+        "status": "wip",
+        "type": "aucun",
+        "link": "/revmrn-8#saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.153598,
+            49.429545
+          ],
+          [
+            1.153534,
+            49.429457
+          ],
+          [
+            1.153521,
+            49.429306
+          ],
+          [
+            1.153372,
+            49.429243
+          ],
+          [
+            1.152507,
+            49.429344
+          ],
+          [
+            1.152475,
+            49.429272
+          ],
+          [
+            1.151836,
+            49.429369
+          ],
+          [
+            1.151584,
+            49.429348
+          ],
+          [
+            1.151409,
+            49.429218
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route du Mesnil-Esnard",
+        "status": "wip",
+        "type": "aucun",
+        "link": "/revmrn-8#saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.151397,
+            49.429209
+          ],
+          [
+            1.151409,
+            49.429142
+          ],
+          [
+            1.15161,
+            49.428957
+          ],
+          [
+            1.152152,
+            49.428655
+          ],
+          [
+            1.154024,
+            49.427983
+          ],
+          [
+            1.155503,
+            49.427458
+          ],
+          [
+            1.155813,
+            49.427135
+          ],
+          [
+            1.156077,
+            49.426505
+          ],
+          [
+            1.156343,
+            49.42564
+          ],
+          [
+            1.156336,
+            49.425535
+          ],
+          [
+            1.156162,
+            49.425309
+          ],
+          [
+            1.154307,
+            49.423968
+          ],
+          [
+            1.15317,
+            49.423182
+          ],
+          [
+            1.152337,
+            49.422619
+          ],
+          [
+            1.151905,
+            49.42246
+          ],
+          [
+            1.151247,
+            49.422221
+          ],
+          [
+            1.150633,
+            49.421956
+          ],
+          [
+            1.150177,
+            49.421604
+          ],
+          [
+            1.149984,
+            49.421432
+          ],
+          [
+            1.149703,
+            49.421182
+          ],
+          [
+            1.149165,
+            49.420685
+          ],
+          [
+            1.148718,
+            49.42018
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "côte de Waddington",
+        "status": "wip",
+        "type": "voie-verte",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.148714,
+            49.420169
+          ],
+          [
+            1.148126,
+            49.419552
+          ],
+          [
+            1.1469,
+            49.418246
+          ],
+          [
+            1.14608,
+            49.417372
+          ],
+          [
+            1.145892,
+            49.417091
+          ],
+          [
+            1.145963,
+            49.416654
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Darnétal ouest",
+        "status": "wip",
+        "type": "aucun",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.145992,
+            49.416658
+          ],
+          [
+            1.148121,
+            49.415474
+          ],
+          [
+            1.150406,
+            49.41428
+          ],
+          [
+            1.152046,
+            49.413452
+          ],
+          [
+            1.153447,
+            49.412759
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Darnétal ouest",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.153447,
+            49.412759
+          ],
+          [
+            1.154022,
+            49.412411
+          ],
+          [
+            1.154009,
+            49.41228
+          ],
+          [
+            1.154196,
+            49.412129
+          ],
+          [
+            1.154506,
+            49.412129
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Darnétal rond-point",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.154667,
+            49.412142
+          ],
+          [
+            1.156368,
+            49.411295
+          ],
+          [
+            1.157392,
+            49.410753
+          ],
+          [
+            1.157947,
+            49.410371
+          ],
+          [
+            1.158276,
+            49.410018
+          ],
+          [
+            1.158451,
+            49.409716
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Darnétal est",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.158464,
+            49.409711
+          ],
+          [
+            1.158683,
+            49.409186
+          ],
+          [
+            1.158744,
+            49.408822
+          ],
+          [
+            1.158654,
+            49.408095
+          ],
+          [
+            1.158428,
+            49.407066
+          ],
+          [
+            1.1584,
+            49.406692
+          ],
+          [
+            1.158497,
+            49.406196
+          ],
+          [
+            1.15871,
+            49.405717
+          ],
+          [
+            1.159233,
+            49.404982
+          ],
+          [
+            1.159478,
+            49.404491
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "D138 Nord",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.159345,
+            49.404781
+          ],
+          [
+            1.159814,
+            49.403529
+          ],
+          [
+            1.160511,
+            49.402789
+          ],
+          [
+            1.160414,
+            49.402693
+          ],
+          [
+            1.160279,
+            49.402651
+          ],
+          [
+            1.160175,
+            49.402415
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "D138 sud",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-en-direction-de-saint-léger-du-bourg-denis",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.160102,
+            49.402378
+          ],
+          [
+            1.158353,
+            49.402869
+          ],
+          [
+            1.155889,
+            49.40349
+          ],
+          [
+            1.146193,
+            49.408119
+          ],
+          [
+            1.141901,
+            49.410291
+          ],
+          [
+            1.133665,
+            49.416192
+          ],
+          [
+            1.131837,
+            49.41751
+          ],
+          [
+            1.129067,
+            49.419529
+          ],
+          [
+            1.124841,
+            49.423327
+          ],
+          [
+            1.124117,
+            49.423757
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue de Paris Bonsecours - FSP",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.160214,
+            49.402411
+          ],
+          [
+            1.160343,
+            49.402289
+          ],
+          [
+            1.160576,
+            49.402214
+          ],
+          [
+            1.160853,
+            49.402235
+          ],
+          [
+            1.161531,
+            49.402096
+          ],
+          [
+            1.162099,
+            49.401978
+          ],
+          [
+            1.163175,
+            49.401731
+          ],
+          [
+            1.164937,
+            49.401315
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Paris FSP 1",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.164918,
+            49.401298
+          ],
+          [
+            1.168337,
+            49.400483
+          ],
+          [
+            1.171477,
+            49.399733
+          ],
+          [
+            1.17406,
+            49.398944
+          ],
+          [
+            1.177399,
+            49.397832
+          ],
+          [
+            1.18366,
+            49.395542
+          ],
+          [
+            1.185707,
+            49.394676
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "route de Paris FSP 2",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#franqueville-saint-pierre-mesnil-esnard-bonsecours",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.185786,
+            49.39465
+          ],
+          [
+            1.193994,
+            49.39161
+          ],
+          [
+            1.197241,
+            49.390411
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "FSP - Boos",
+        "status": "done",
+        "type": "voie-verte",
+        "link": "/revmrn-8#liaison-boos-franqueville-saint-pierre",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.197241,
+            49.390407
+          ],
+          [
+            1.199464,
+            49.389545
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue de Paris Boos 1",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#boos",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.199489,
+            49.389553
+          ],
+          [
+            1.200389,
+            49.389212
+          ],
+          [
+            1.201781,
+            49.3887
+          ],
+          [
+            1.2021787,
+            49.3886038
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue de Paris Boos 2",
+        "status": "done",
+        "type": "aucun",
+        "link": "/revmrn-8#boos",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.2021979,
+            49.3885788
+          ],
+          [
+            1.205369,
+            49.3869795
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue des Andelys nord",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/revmrn-8#boos",
+        "quality": "unsatisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.2053891,
+            49.3869592
+          ],
+          [
+            1.2087732,
+            49.385298
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "rue des Andelys sud",
+        "status": "done",
+        "type": "bidirectionnelle",
+        "link": "/revmrn-8#boos",
+        "quality": "satisfactory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.208809,
+            49.3852747
+          ],
+          [
+            1.224064,
+            49.37762
+          ],
+          [
+            1.227894,
+            49.375694
+          ]
+        ]
+      },
+      "properties": {
+        "line": 8,
+        "name": "D138",
+        "status": "done",
+        "type": "voie-verte",
+        "link": "/revmrn-8#liaison-neuville-chant-doisel-boos",
+        "quality": "satisfactory"
+      }
+    }    
+  ]
 }
