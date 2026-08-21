@@ -127,10 +127,10 @@
       "properties": {
         "line": 8,
         "name": "route du Mesnil-Esnard",
-        "status": "wip",
-        "type": "aucun",
+        "status": "done",
+        "type": "bidirectionnelle",
         "link": "/revmrn-8#saint-léger-du-bourg-denis",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       }
     },
     {
@@ -231,7 +231,7 @@
       "properties": {
         "line": 8,
         "name": "côte de Waddington",
-        "status": "wip",
+        "status": "planed",
         "type": "voie-verte",
         "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
         "quality": "satisfactory"
@@ -386,7 +386,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/revmrn-8#liaison-mesnil-esnard-saint-léger-du-bourg-denis",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       }
     },
     {
