@@ -21,7 +21,7 @@ L'itinéraire démarre à l'est à la sortie du bourg de la Neuville-Chant-d'Ois
 
 L'itinéraire se poursuit dans le bourg de Boos tout d'abord sur la route des Andelys, jusqu'à rejoindre la route départementale RD 6014, puis le long de la RD 6014 en direction de l'ouest. La voie verte en provenance de la Neuville-Chant-d'Oisel se poursuit à l'entrée du bourg puis l'itinéraire prend la forme d'une piste cyclable bidirectionnelle. 
 
-::banner{type="warning"}
+::banner{type="info"}
 Il existe une discontinuité cyclable sur la partie nord de la rue des Andelys.
 ::
 
