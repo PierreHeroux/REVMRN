@@ -159,7 +159,7 @@ panoramax: seq=40932dac-3a72-4f0b-b2b3-b1b8bf52543b;pic=7624c209-8fbf-4ab4-ac04-
 
 A la sortie de la rue Marie Curie, l'itinéraire :line-link{line=9} va suivre la route de Lyons-la-Forêt en direction de l'est. 
 
-L'itinéraire reprend la route de Lyons-la-Forêt, tout d'abord sans aménagement cyclable existant jusqu'à avoir passé deux ouvrages d'art SNCF. Passé ces ouvrages d'art, l'aménagement est implanté par des pistes cyclables bilatérales.
+L'itinéraire reprend la route de Lyons-la-Forêt, tout d'abord sans aménagement cyclable existant jusqu'à avoir passé deux ouvrages d'art SNCF. Passé ces ouvrages d'art, l'aménagement est implanté par des pistes cyclables unidirectionnelles bilatérales.
 
 ::content-image
 ---
@@ -171,11 +171,6 @@ credit: Pierre Héroux
 
 A partir de l'intersection avec la rue de Repainville en direction de l'est, l'aménagement prend la forme d'une piste bidirectionnelle positionnée entre les deux sens de circulation de la route nationale N31 jusqu'au carrefour dit de la bascule qui marque l'intersection entre la route nationale N31 et la suite de la route de Lyons-la-Forêt à Darnétal (RD 42). 
 
-::banner{type="wip"}
-Des travaux ayant cours actuellement condamnent l'accès à l'itinéraire cyclable sur la route de Lyons la Forêt entre l'intersection avec la rue de Repainville et l'intersection avec la rue de Waddington.
-::
-
-
 ::content-image
 ---
 imageUrl: https://sabinerouenvelo.org/wp-content/uploads/2026/01/IMG_20260124_164842.jpg
@@ -184,7 +179,7 @@ credit: Pierre Héroux
 ---
 ::
 
-L'itinéraire se poursuit sur la route de Lyons-le-Forêt le long de la route départementale RD 42 jusqu'au giratoire marquant l'intersection avec la rue Saint-Marguerite à Saint-Léger-du-Bourg-Denis via une piste bidirectionnelle positionnée en rive nord et peu qualitative (entrées charetières, défaut de démarcation avec le cheminement piéton). A cet endroit, l'itinéraire :line-link{line=9} se connecte avec l'extrémité d'une des branches de l'itinéraire :line-link{line=8}. Il existe un projet de réaménagement de l'itinéraire cyclable entre la ZAC Rouen Innovation Santé et cette interconnexion entre les itinéraires 8 et 9.
+L'itinéraire se poursuit sur la route de Lyons-le-Forêt le long de la route départementale RD 42 jusqu'au giratoire marquant l'intersection avec la rue Saint-Marguerite à Saint-Léger-du-Bourg-Denis via une piste bidirectionnelle positionnée en rive nord. A cet endroit, l'itinéraire :line-link{line=9} se connecte avec l'extrémité d'une des branches de l'itinéraire :line-link{line=8}.
 
 L'itinéraire se poursuit ensuite sur environ 1,3km sur la route de Lyons-la-Forêt (RD 42) dans Saint-Léger-du-Bourg-Denis jusqu'à son extrémité située au niveau de l'intersection avec la rue de l'Eglise. Il n'existe actuellement pas d'aménagement cyclable sur ce tronçon.
 
