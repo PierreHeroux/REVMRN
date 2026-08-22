@@ -26,10 +26,10 @@ A partir de la place Voltaire à Sotteville, il emprunte la rue Pierre Corneille
 
 L'itinéraire emprunte ensuite la rue des Coquelicots jusqu'au giratoire qui marque l'intersection avec l'avenue du Bic Aubert. A cette intersection l'itinéraire :line-link{line=5} se connecte avec l'itinéraire :line-link{line=4}. 
 
-::banner{type="wip"}
-Ce tronçon est actuellement en travaux pour la réalisation d'une piste bilatérale.
-::
-
 ### Avenue du Bic Aubert
 
-L'itinéraire se poursuit en direction du sud sur l'avenue du Bic Aubert, puis sur l'avenue du Val l'Abbé jusqu'au giratoire qui marque l'intersection avec la rue Olivier Goubert ce qui constitue la fin de l'itinéraire. Sur ce tronçon, l'aménagement cyclable prend la forme d'une piste bilatérale existante. L'aménagement est globalement satisfaisant. Le traitement de l'intersection avec la rue Jean Rondeaux qui dans sa version actuelle réinsère le cycliste sur la voie générale devra être reprise.
+L'itinéraire se poursuit en direction du sud sur l'avenue du Bic Aubert, puis sur l'avenue du Val l'Abbé jusqu'au giratoire qui marque l'intersection avec la rue Olivier Goubert ce qui constitue la fin de l'itinéraire. Sur ce tronçon, l'aménagement cyclable prend la forme d'une piste bilatérale existante. Même si ancien, l'aménagement est globalement satisfaisant. Le traitement des intersections pourrait être amélioré.
+
+::banner{type="info"}
+Le traitement de l'intersection avec la rue Jean Rondeaux qui dans sa version actuelle réinsère le cycliste sur la voie générale devra être reprise.
+::

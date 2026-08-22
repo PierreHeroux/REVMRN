@@ -583,8 +583,8 @@
             "properties": {
                 "line": 4,
                 "name": "Avenue de l'Université Est 2",
-                "status": "wip",
-                "type": "bilateralz",
+                "status": "postponed",
+                "type": "bilaterale",
                 "link": "/revmrn-4#traversée-de-saint-etienne-du-rouvray",
                 "quality": "unsatisfactory"
             }

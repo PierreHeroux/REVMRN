@@ -778,7 +778,7 @@
       "properties": {
         "line": 6,
         "name": "Boulevard Lénine",
-        "status": "postponed",
+        "status": "planned",
         "type": "bidirectionnelle",
         "link": "/revmrn-6#boulevard-lénine",
         "quality": "unsatisfactory"
@@ -926,10 +926,10 @@
       "properties": {
         "line": 6,
         "name": "Chemin du Pont de la Chapelle",
-        "status": "wip",
-        "type": "aucun",
+        "status": "done",
+        "type": "cvcb",
         "link": "/revmrn-6#chemin-du-pont-de-la-chapelle",
-        "quality": "unsatisfactory"
+        "quality": "satisfactory"
       },
       "geometry": {
         "coordinates": [
@@ -944,18 +944,30 @@
           [
             1.1073070513748178,
             49.36380515934164
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "line": 6,
+        "name": "Chemin du Pont de la Chapelle",
+        "status": "done",
+        "type": "voie-verte",
+        "link": "/revmrn-6#chemin-du-pont-de-la-chapelle",
+        "quality": "satisfactory"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            1.1073070513748178,
+            49.36380515934164
           ],
           [
             1.1062912133653242,
             49.363881948458726
-          ],
-          [
-            1.1054477050192304,
-            49.3639232963956
-          ],
-          [
-            1.1048400162105168,
-            49.364112315091035
           ]
         ],
         "type": "LineString"

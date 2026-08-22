@@ -133,10 +133,10 @@ Un aménagement cyclable sous la forme d'une piste bidirectionnelle a été cré
 
 ### Traversée de Grand-Couronne
 
-L'itinéraire traverse ensuite la ville de Grand-Couronne en empruntant l'avenue du Général Leclerc, la rue Georges Clémenceau et la partie de l'avenue Jean Jaurès située au nord-est de l'intersection avec le Boulevard du Rouvray. Il n'existe acutellement aucun aménagement cyclable sur toute la longueur de ce linéaire.
+L'itinéraire traverse ensuite la ville de Grand-Couronne en empruntant l'avenue du Général Leclerc, la rue Georges Clémenceau et la partie de l'avenue Jean Jaurès située au nord-est de l'intersection avec le Boulevard du Rouvray. Il n'existe acutellement aucun aménagement cyclable sur toute la longueur de ce linéaire. Il existe un projet d'aménagement sur l'avenue du Général Leclerc par le biais d'une piste cyclable bidirectionnelle implantée en rive est.
 
 ::banner{type="postponed"}
-L'association Sabine n'a pas connaissance de projet d'aménagement concernant ce tronçon.
+L'association Sabine n'a pas connaissance de projet d'aménagement sur la rue Georges Clémenceau, ni sur l'avenue Jean Jaurès.
 ::
 
 L'itinéraire emprunte ensuite dans un premier temps le boulevard du Rouvray où une piste cyclable bilatérale a été créée jusqu'au giratoire permettant de désservir la zone d'activité des Peupliers. A cet endroit, l'itinéraire se poursuit en direction du sud-ouest en empruntant une voie verte nouvellement créée qui va notamment longer la rue de bas, puis emprunter vers le nord le boulevard du Fossé Blondel, puis le boulevard du Grand Aulnay jusqu'à l'allée Joffre Delamare.

@@ -891,7 +891,7 @@
             "properties": {
                 "line": 3,
                 "name": "Rue Aristide Briand Sud",
-                "status": "postponed",
+                "status": "planned",
                 "type": "bidirectionnelle",
                 "link": "/revmrn-3#traversée-de-grand-couronne",
                 "quality": "unsatisfactory"
@@ -939,7 +939,7 @@
             "properties": {
                 "line": 3,
                 "name": "Avenue du Général Leclerc",
-                "status": "postponed",
+                "status": "planned",
                 "type": "aucun",
                 "link": "/revmrn-3#traversée-de-grand-couronne",
                 "quality": "unsatisfactory"

@@ -32,7 +32,7 @@ panoramax: seq=15bdbc3e-8992-45d9-8444-d3cd76b8e9f5;pic=b9eb0d02-36fa-4dc3-9f2b-
 
 ### Quai Jacques Anquetil - Avenue Grand Cours
 
-Le tracé est ensuite partagé avec l'itinéraire :line-link{line=1} tout le long du quai Jacques Anquetil jusqu'à la tête sud du pont Mathilde. Après avoir contourné le noeud routier que constitue la tête sud du pont Mathilde, l'itinéraire se poursuit en rive sud de l'avenue Grand Cours jusqu'au rond-point des Mariniers. Sur l'ensemble de ce tronçon, l'itinéraire est implanté sur la forme d'une voie verte. Si sur le quai Jacques Anquetil, malgré un flux piéton important, la largeur offerte permet d'éviter les conflits d'usage, en revanche, l'aménagement proposé sur l'avenue Grand Cours est problématique dans le sens où il a été implanté au pied d'un alignement d'arbres qui consituent autant d'obstacle, génèrent des pincements de la largeur disponible et dont le système racinaire détériore l'aménagement réalisé en 2023.
+Le tracé est ensuite partagé avec l'itinéraire :line-link{line=1} tout le long du quai Jacques Anquetil jusqu'à la tête sud du pont Mathilde. Après avoir contourné le noeud routier que constitue la tête sud du pont Mathilde, l'itinéraire se poursuit en rive sud de l'avenue Grand Cours jusqu'au rond-point des Mariniers. Sur l'ensemble de ce tronçon, l'itinéraire est implanté sur la forme d'une voie verte. Si sur le quai Jacques Anquetil, malgré un flux piéton important, la largeur offerte permet d'éviter les conflits d'usage, en revanche, l'aménagement proposé sur l'avenue Grand Cours est problématique dans le sens où il a été implanté au pied d'un alignement d'arbres qui consituent autant d'obstacles, génèrent des pincements de la largeur disponible et dont le système racinaire détériore l'aménagement réalisé en 2023.
 
 ::content-image
 ---
@@ -76,6 +76,8 @@ panoramax: seq=460307e6-b56c-479a-9532-c05c0be408d7;pic=8a804a79-cd56-4330-a5b3-
 
 L'itinéraire suit ensuite le boulevard Lénine en rive ouest jusqu'à la rue Désiré Granet. Il existe un aménagement sous la forme d'une piste bidirectionnelle peu qualitative (largeur insuffisante, entretien, proximité avec un trafic important avec de nombreux poids lourds).
 
+Il existe un projet de reprise de l'aménagement.
+
 ::content-image
 ---
 panoramax: seq=d32b438f-1c30-4cc0-b937-3b3eee745023;pic=ff6885a0-2282-4f77-a83a-083111df122b;open=true
@@ -88,4 +90,4 @@ Après une traversée du boulevard Lénine au niveau de l'intersection avec la r
 
 ### Chemin du pont de la Chapelle
 
-Enfin l'itinéraire emprunte le chemin du pont de la Chapelle, traverse le pont SNCF et se termine au niveau du giratoire marquant l'intersection avec l'avenue du Général de Gaulle à Oissel. Il n'existe pas d'aménagement cyclable à proprement parler. La qualité du revêtement est médiocre. Cependant, ce tronçon est actuellement en travaux.
+Enfin l'itinéraire emprunte le chemin du pont de la Chapelle, traverse le pont SNCF et se termine au niveau du giratoire marquant l'intersection avec l'avenue du Général de Gaulle à Oissel. Il est implanté sous la forme d'une chaussée à voie centrale banalisée à l'est du pont et sous la forme d'une voie verte sur le pont et à l'ouest.
