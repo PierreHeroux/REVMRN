@@ -1,0 +1,56 @@
+{
+    "name": "Eco 39 - Pont Guillaume le Conqu\u00e9rant",
+    "description": "",
+    "arrondissement": "Rouen",
+    "coordinates": [
+        1.08163665,
+        49.44088551
+    ],
+    "lines": [],
+    "counts": [
+        {
+            "month": "2025-10-01",
+            "count": 2577
+        },
+        {
+            "month": "2025-11-01",
+            "count": 25054
+        },
+        {
+            "month": "2025-12-01",
+            "count": 28104
+        },
+        {
+            "month": "2026-01-01",
+            "count": 24439
+        },
+        {
+            "month": "2026-02-01",
+            "count": 24389
+        },
+        {
+            "month": "2026-03-01",
+            "count": 42041
+        },
+        {
+            "month": "2026-04-01",
+            "count": 42925
+        },
+        {
+            "month": "2026-05-01",
+            "count": 41485
+        },
+        {
+            "month": "2026-06-01",
+            "count": 44781
+        },
+        {
+            "month": "2026-07-01",
+            "count": 44865
+        },
+        {
+            "month": "2026-08-01",
+            "count": 38043
+        }
+    ]
+}

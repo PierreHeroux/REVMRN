@@ -1,0 +1,52 @@
+{
+    "name": "Eco 37 - Pont Boieldieu",
+    "description": "",
+    "arrondissement": "Rouen",
+    "coordinates": [
+        1.09137481,
+        49.4380963
+    ],
+    "lines": [],
+    "counts": [
+        {
+            "month": "2025-10-01",
+            "count": 2982
+        },
+        {
+            "month": "2025-11-01",
+            "count": 27759
+        },
+        {
+            "month": "2025-12-01",
+            "count": 1298
+        },
+        {
+            "month": "2026-02-01",
+            "count": 0
+        },
+        {
+            "month": "2026-03-01",
+            "count": 0
+        },
+        {
+            "month": "2026-04-01",
+            "count": 24974
+        },
+        {
+            "month": "2026-05-01",
+            "count": 19033
+        },
+        {
+            "month": "2026-06-01",
+            "count": 17208
+        },
+        {
+            "month": "2026-07-01",
+            "count": 43125
+        },
+        {
+            "month": "2026-08-01",
+            "count": 36474
+        }
+    ]
+}
